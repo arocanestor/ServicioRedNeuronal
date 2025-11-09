@@ -1,2 +1,4 @@
 2025-11-09 16:54:31 | INFO | POST /procesar-direccion/ | Tiempo: 2.638s | CPU: 0.0% | RAM: 445.57 MB
 2025-11-09 16:58:44 | INFO | POST /procesar-direccion/ | Status: 200 | Tiempo: 2.461s | CPU: 0.0% | RAM: 445.42 MB | RAM_Virtual: 385.28 MB | Threads: 39 | Conexiones: 2 | I/O_Read: 1.42 MB | I/O_Write: 0.00 MB | Request_Size: 0.05 KB
+2025-11-09 17:03:36 | INFO | POST /procesar-direccion/ | Status: 200 | Tiempo: 2.001s | CPU: 0.0% | RAM: 441.98 MB | RAM_Virtual: 381.84 MB | Threads: 39 | Conexiones: 2 | I/O_Read: 1.42 MB | I/O_Write: 0.00 MB | Request_Size: 0.05 KB
+2025-11-09 17:03:46 | INFO | POST /procesar-direccion/ | Status: 200 | Tiempo: 1.938s | CPU: 4.0% | RAM: 444.83 MB | RAM_Virtual: 384.14 MB | Threads: 38 | Conexiones: 2 | I/O_Read: 1.39 MB | I/O_Write: 0.00 MB | Request_Size: 0.05 KB
