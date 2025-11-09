@@ -1,0 +1,5096 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av La Rosita #24-59, Bolívar, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1188058,
+        "lng": -73.11768479999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.120115379892722,
+          "lng": -73.11629097010727
+        },
+        "southwest": {
+          "lat": 7.117415720107278,
+          "lng": -73.11899062989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Rock & Wine",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117683770479386922770\">Trofeos Campeón</a>"
+        ],
+        "photo_reference": "ATKogpfPS_UoMZ-apGhfWqQCM13KoXOUt9W4Z26xePE_iCu8T6VQb5XB0X-EJuMCUE_RCK5vPtEp0SjwH4UBMyM8ovPTs_CwWZ0gKvlH9B9Xf8cs_SGma6lwVsFmRdp96XCWvPM69lUCUPvCQIpjv6IqnK95f1GKeQlznwh7z4WC5i2y-KuEcfST5CPUqCtuE2zVneRHZ8ly7WyrxFhJkRlEYtHkgaujwX3ixWTiR7wfLaCtatn3uBg9c-CFfPVQkN8ZpEevp9PZwImAlUhfiqYJfh9LXc4Hs6wjNaX0Z2BtC6qk0FJEBhQPSbM0bjm4vQgcRroE3vXlBxq2dVnEKv6wXPWPC6Ccxz4ukNDGvcwOuac3pdPafIxLHlx3faOQ0p-bg3WVqEhjGU3DwjzMvXfTgD46KQY4_sZdOvkbvkEstzRSOeQ_XLekLQEv_MQr-HeClTQRSKULeNXbmftR5BJ7Ykafj-yoh1TMm7Bks0fAsnZ1xhP96mX8mP8PJ9Y1cVrQTo011pn0ADV2-hEN4REJujS6KvzkYTkktaaqmRQDim1UoVErhWqNCzA96vLjBBmNRPRAQnRuoce5Dg",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJMbnd1tg_aI4Rs8XVxtZkPNk",
+    "plus_code": {
+      "compound_code": "4V9J+GW Bucaramanga, Santander",
+      "global_code": "67V84V9J+GW"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJMbnd1tg_aI4Rs8XVxtZkPNk",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1353
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra 29 #47-82, Sotomayor, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.116634899999999,
+        "lng": -73.1123841
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117982179892723,
+          "lng": -73.11097097010727
+        },
+        "southwest": {
+          "lat": 7.115282520107279,
+          "lng": -73.11367062989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "La Esquinita",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109312151353114755179\">Alejandro Gomez</a>"
+        ],
+        "photo_reference": "ATKogpflcmU-vbGxRcUUoJGOfcBZEsJdCKOYUgVtmXJMzqnP9Zhysos4dAsZmNjkUXdqdLWBKi_3gnNiYHa6slk8XQgdFrsaFEx8MHldbMcILClK2JXmeyMDphYNXObgx_49BkjU86nQDYOibqLQ889PTNyi-TU-ILsEu6jOBCWYtdfnMWmhLRf--Zxi5Q_EnLk90xYRHlwvDEV4H9IVzsP4fwxfGlV_EUCInGnMeU0lR174-V4NE7GCGgW4oC_CM_lR8f9P9kSiCh7Mq24AQEqQqxWnC0MSgH0Ovu5trltojnLfSyFef1xiBtXtImoREfL17yGku9o3LKl4PylSx3U7OR-Bi-UYoC9Hr8S8gLjROp3QWzEple1jCozPVAqKsPuyO9-dmJNrLEYgaemWBH8LCeaaKiF9wkee9dyRaVqOHEZOqRbxkhHdhpizgAaUWJ842kjXwef9ViCODoG4BoMGbeiO_OVGvkauZD7120w3c15VHAcklPUjtQEpBrwm4_wrfL-5BRemA87ulpdVbMYbhmwI4YmCGchowngdKwVUe5fEi99i-_gzi2TvT3thV1JusAIGYDKWByPimA",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJAa4hmvM_aI4R4uRV0MfaQ7Q",
+    "plus_code": {
+      "compound_code": "4V8Q+M2 Bucaramanga, Santander",
+      "global_code": "67V84V8Q+M2"
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reference": "ChIJAa4hmvM_aI4R4uRV0MfaQ7Q",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 254
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 63 #27-02, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.105238099999999,
+        "lng": -73.1135805
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.106586279892722,
+          "lng": -73.11226237010727
+        },
+        "southwest": {
+          "lat": 7.103886620107278,
+          "lng": -73.11496202989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "COCKTAILS AND DREAMS rock",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 958,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100732728116720823842\">COCTELES Y SUEÑOS rock</a>"
+        ],
+        "photo_reference": "ATKogpemqbbMtH1jjBKZ35BEmYUnStY9pFA0gvZgheRAh8K0N5zlAIsKxY21s4GMkBRB6pmm90d38nnpQgRnTreOs6urBderLP4wz9J0WETye_TWocHNLg9yIHE8oL6bcEDDmVrwBq_lN68_DLjnDu-V_DSQV1GKWLaf2KcynjeFnZsgNz9a9DGmbAvx-nObez_T0MYNSBtwtwWfp9e8Y_tnKTjpEKGBk2_KcTZFEjNJD4dbGBh3XVHQxL7GDDBo92DfHyfS9vvFb0v14oAz416a44RTab3p-8UYrtnNr0dNlEcZgTkO4s0",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJk0EGKMI_aI4R39MqIc0Ajys",
+    "plus_code": {
+      "compound_code": "4V4P+3H Bucaramanga, Santander",
+      "global_code": "67V84V4P+3H"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJk0EGKMI_aI4R39MqIc0Ajys",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1348
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 31 #33-49, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1254,
+        "lng": -73.11417999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.126718379892723,
+          "lng": -73.11289477010727
+        },
+        "southwest": {
+          "lat": 7.124018720107278,
+          "lng": -73.11559442989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "La Cervecería zona rosa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108690318790819936250\">La Cervecería zona rosa</a>"
+        ],
+        "photo_reference": "ATKogpc9vX-9sgRztHY5x_E02u1hXVkkXxcUhfKHWI-lhrHx9sNsPMG4ohFnZf-aDLCXkjUVuHyc5iFKow45BLuFzopPPuUPTxjPFU9DfVlPjHGn8ibvjEGpl2c1wCXCupDzAQTL2gzLXc-6FmiROW1O_Bybb4RzC_ebgb6pOHJ_4-wf4pc1Ox9XICsHt_DTqL893MIx26ntGo3VZ67vH_y7Z7ImZ6NR5S_zJxWfOQsFc8Q7UiXrHoGtUJfFq58jEDuCjwR_zloF8do6DyJxZ6w_fLN_mgG74uDQvsPKnUaZoOHPQTGAzzo",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJ-SZONhIVaI4RZ64bk6EEhQE",
+    "plus_code": {
+      "compound_code": "4VGP+58 Bucaramanga, Santander",
+      "global_code": "67V84VGP+58"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ-SZONhIVaI4RZ64bk6EEhQE",
+    "types": [
+      "bar",
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 122
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av La Rosita # 24 89, Bolívar, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1190202,
+        "lng": -73.1174664
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.120321679892722,
+          "lng": -73.11607077010729
+        },
+        "southwest": {
+          "lat": 7.117622020107278,
+          "lng": -73.11877042989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Rock Music Club",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117861399407826703981\">Alba Cecilia Jiménez Villarreal</a>"
+        ],
+        "photo_reference": "ATKogpfJZJuK-163TLLTwgijgZh3KRsand5utdXBd5X5T6-enuEPRQXtzQfwkPVItvXExSBApR6n0599NWKQlOWRPhMRQOLzUKKAGrqZ0Z21gRtuT-iOOH9ericIjhMRPTYg82kMJjlf_UBeyTGqs-WlZ1FskbR3bovAGDj1wWjxicRrzf0rWWae7ilREh8UGoxPPauoPoTENrsmc2CWlmYSm1_ODT3sCGXw_zvrwBPpFc0RSAiAT-jsEo7NBnamuWLSVx0N9C063ogSdH4tXqnR7GmYC8vO-ENEz4iQLOL7j2XybrkTgadVGa9HBZFcOh_IOEVUNQXbCzUXPFRcs5xPy2BwiH1G-XKypJsXyi37Na2Bk-WKbWTXQs4LDt-ygLxf_BD7TYMeGS4H2VYd6bg6X_NXogqi_zC0hy2Xm4vQerqk3hL6hiXFaVMHmOA_YmD2hGHNulPNT8pWqiudQYZsIL6Z7M59B5v9Gu13a1G5ddHDF1TE6INFELiisXpJCf_czHEQLETWE2qgyxE0ncJxykxArdf_xVybPeeQdA9QmHCku95p4rZcnyMxVhMAyB3BaRqfNc6aqCUyuQ",
+        "width": 2136
+      }
+    ],
+    "place_id": "ChIJ699Yzdg_aI4RgCylTWEMK-I",
+    "plus_code": {
+      "compound_code": "4V9M+J2 Bucaramanga, Santander",
+      "global_code": "67V84V9M+J2"
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reference": "ChIJ699Yzdg_aI4RgCylTWEMK-I",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 703
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Local 520 Centro Comercial Cabecera IV Etapa, Cra. 35A #49-07, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.115392699999999,
+        "lng": -73.1088748
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.116724629892722,
+          "lng": -73.10762717010728
+        },
+        "southwest": {
+          "lat": 7.114024970107279,
+          "lng": -73.11032682989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Boissons Pub.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111004596631650201673\">Boissons Pub.</a>"
+        ],
+        "photo_reference": "ATKogpe3fQC7wkxJHabIXE4Bzv0jKj7YdkpeeCfQopFaaMb8D2nQCm5UGzF-RkshTLWXXr09qXdYLZiOegl4WmnSlSI9uy-xsdaDwfYSdek-fZTMQGcdngXVzitvUtbQAERJXgCrU9gWMrdbjA7c6NE7f0FRN19YNeQCbSm3nWK3u6vKhSxpVs4yjEWO5ouunvDQBxUwYpz8wj6niX5Md5E2jR4TAThV2tAUgQ_avjCQudF15FxZFLzULjo42qRFHia2wbcPaNrvALPQ8yCxnE7Evvz5JmtwOaLlvBPBfhwdrUCE1c-tXqc",
+        "width": 2436
+      }
+    ],
+    "place_id": "ChIJ74e7K-c_aI4RWA3fDtvGJVI",
+    "plus_code": {
+      "compound_code": "4V8R+5F Bucaramanga, Santander",
+      "global_code": "67V84V8R+5F"
+    },
+    "rating": 4.3,
+    "reference": "ChIJ74e7K-c_aI4RWA3fDtvGJVI",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 199
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35A #46-63, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.117726900000001,
+        "lng": -73.10941079999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.119070279892722,
+          "lng": -73.10809772010728
+        },
+        "southwest": {
+          "lat": 7.116370620107278,
+          "lng": -73.11079737989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Five Points Gastro Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110204862153856348851\">Julie Gonzalez</a>"
+        ],
+        "photo_reference": "ATKogpdm_ePIWLevHLDXEKltuCqwUUENCCc0f5-0sZxdFeci7WFRHaLjORcP41PbD_XlLFKIqV-JcNBzAHqpLnzYBIXmvM43uJ5zWejLEROtWI5s9oW-zgw1dhrCBmmKdQT8XuCxlsXQ4YYzsrVcQPL62RH5PFi_3x5ZzN61NjM1YEgdkiMmMKCA1ZKBfJsVJHa1TLB3ZiqeJdr_-Wuhbp3VP9JSRSh6Q1Yd48fUpr36Bb24aFl_TTbbNhczovnB1uSGKjvJ1Ly33Wu3rFSxu-kwaNCsajCiWdlPawUELPTsBMlBZphpVydaUPzbaQ4r4YVWtUaQzPlKDHZKN4xTIB2FnizCWALmMbtzycyt4ngikHvW0lc8y6aPP1OG5dI3Uq4xPao8lxRdOdXTthQELu5mfH1ZJB3PMZsYnYin59GfBceZztqddp2gAobfRdyl4X5k6nZYYrhSLKKH5-tmyeBDDSHYUdizfzXkFutQ2X3al2zjinO8jdcQFzQdY0cWaEiw5I18stPImE0sYh4ld8Nb9ISTP2ZICgbvVttbEH9sOWor1AMy8xNkUsZiQLGOGg86m6b04W9B",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJ3UWDamo_aI4Ru8i67M43rnk",
+    "plus_code": {
+      "compound_code": "4V9R+36 Bucaramanga, Santander",
+      "global_code": "67V84V9R+36"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ3UWDamo_aI4Ru8i67M43rnk",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 49
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Bomba Texaco, Ak 27 #58 - 56 Segundo piso, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.107489999999999,
+        "lng": -73.1144119
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.108787529892721,
+          "lng": -73.11305527010728
+        },
+        "southwest": {
+          "lat": 7.106087870107277,
+          "lng": -73.11575492989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "ROCK COCO BAR",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112854974875594669983\">Tomas Bohorquez</a>"
+        ],
+        "photo_reference": "ATKogpewfbunNx-BenyAiU6on-5JtZer82eqp7YQukEylFOhc-bfaO83dSQhm9CtTY89dLwlCPHYT3Pz6z-EcTVNTOfHmNv6gxp-1dpJIw1Vav6CbTgscuEgWBOek02wKsGUwHB0rNfvzAFO57XmR4XZPCoBrtc2p57KhOuR4iDCDo7bXYU_8C2n9ZBF9IdUxXR7HNPqTMspkuhcUPURaAhKzGuOOqRdT2NZWkUo9GY-GY7Jg5vgl7oDDjiSjRQ_4vKa34WKLrIAfqlKHm41dNua9079-WKska7MpMtPgbNhh7c5jVDEA3p0sCpFQaLqnB6dyOEailvYLZfX7c3OA1BMMNtRUy_FOEbs16Lq23-Y4oEdepyQD4JG-B0nLaW3yGH-K9nQIEVdjknsKykLmsKFOqUTBW3DcMf4qeSBlY952WKjQSCf4hYpqFtM7S9qe-Cp705n-G94C7NSTOguHFRlern3ZoEYciNzoiYvYAoZYSwjnAgNOBGQtbEeD6qC1MQ5msvsLPCaI8G14mrNLnomaSxYExOrIrXTKYy93TBjS8S-krgE25XA77_AC_Lu6RI78K2UqAgV",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ7wJogq8_aI4RZe3c9wY_Pis",
+    "plus_code": {
+      "compound_code": "4V5P+26 Bucaramanga, Santander",
+      "global_code": "67V84V5P+26"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ7wJogq8_aI4RZe3c9wY_Pis",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra 17 #52 - 42, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1096811,
+        "lng": -73.1205812
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.111050879892721,
+          "lng": -73.11918387010728
+        },
+        "southwest": {
+          "lat": 7.108351220107277,
+          "lng": -73.12188352989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Casa cultural Ya me Amañé Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 392,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103636952475373104398\">Casa cultural Ya me Amañé Bar</a>"
+        ],
+        "photo_reference": "ATKogpf5aKI-ieCRsWXIwDi_CiMwbAUProm5AzP_moMu-zWLW9IGKbb_kiOI6iZ0meMqtsAVque-sE6d0JinY_VwwBobERd9TnSK-japNU38l6Va5XLxG9AAhIe3ZsscFmQeFNA7-BhlTiynJi5HmVX3Tu6-Ke1orBPYBHvoJBhyumpvmOfG_JKh-c4m1vbe79oN00LcLuc2sEOpgZQEO3TEJQIGYBOIndNi0H6et-5rR_glZmPDzpYR1mz4BQ_A8rgS0ZQjy-TDb3rcyiE34H5quGZ_TkIzlv1eHb0NrbmSVMebrMnO6i0",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJxyJEdlY_aI4RSEwabPHE-js",
+    "plus_code": {
+      "compound_code": "4V5H+VQ Bucaramanga, Santander",
+      "global_code": "67V84V5H+VQ"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJxyJEdlY_aI4RSEwabPHE-js",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 193
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Edificio el Galeón, Cl. 37 #33-26, El Prado, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.123287599999999,
+        "lng": -73.11190560000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.124641979892722,
+          "lng": -73.11055657010726
+        },
+        "southwest": {
+          "lat": 7.121942320107278,
+          "lng": -73.11325622989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "El Sombrero Taberna Show",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108557083031044616698\">Billy Perez</a>"
+        ],
+        "photo_reference": "ATKogpeg3iEFLd7ycQA1w-wHVw3YNNJBG1RhJ2mClDrTT4ODrU9bKny8acFFbwLfyhMaJWvVoqXlodi8CyBzNr9ScrSlm-PAohT6w_egfx4Jq2A0nL24TngkIWAyckG6t6Dpf5T8yveb8qywgib-JREtGVo4_flPs2k0AAsSHANOcehuO3Y68BMeQ_54KOmTz2cnHIZcSA81JZjVXx04zrRwdabYnPh_pA8ZC-Ru1Brw7vKJYN4K6hWl4rv7PoWb2eKeEhem0Eqsz9AfeH4SNVhnvZJMyT0_tRhRaiGaRAIo4Jphf4vPtKhH9EwrgSmTe2Cuy7EUQsBNjrRGTCCidnGPfN3UFP9UyO6b0oY8mm0yg887-2TWK2H2dN92VAa0Y-W8X5-sNPvscu0cMeE-YpqhRLoTAjuuPtu9ZI-n2nbetai9zrS5PZovaqTv0gmelutj011t6SqcfAOJDJnIQMoVnVoRmhJvh3ER9a3jM5PfJrHyhpuP5C7x9bpWeP0RG3_naG5PbBRyZ8VjApdBcMJv5-EEN2RtVwM3oVe__OFxGBtTt_0z0o6uscDTb6g9ttVMe56KHeio",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ9dgqfWAVaI4R1qsL2cBcGJo",
+    "plus_code": {
+      "compound_code": "4VFQ+76 Bucaramanga, Santander",
+      "global_code": "67V84VFQ+76"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJ9dgqfWAVaI4R1qsL2cBcGJo",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 415
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1043198,
+        "lng": -73.1221884
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.105635629892722,
+          "lng": -73.12081672010727
+        },
+        "southwest": {
+          "lat": 7.102935970107279,
+          "lng": -73.12351637989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "pasifae cafe bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111270404431997230899\">Nicolas Fabian Caceres Cely</a>"
+        ],
+        "photo_reference": "ATKogpcthvaUJGRvcojA7_Bi064e5quxqvhub_vTOaHl4GsH3ARYtwkeCnDYvcpu1FH02a29hgNbusHtEkSilssQMFXNU5BIZ1mTWD1XLdd-E7v_8peCkt2kRHui4b-3GRxPKsaIjUTROJKbZjQDetuoTlnxagXIWEKEF4ySCA6UMf9j1zbLFV4N5tAis_9ksAtrkQelk5JszCHfAW4L0_bm4z3G9EpmwglSu4cLDsjTXfoToD-h0u9n0-jFcwYgv8B_g0HA4842Taofyenxp8ErrzrJWPdXe8Yoz31V9WAm__roIbtSUWHX2ajQF5NuKVyfVFR_4YtLkCk0n6XBYNAjLg1SJ26bbapzMzf1cRGC4pRlJE500oNtwRll0jY7HlNXIwBlnHnu8x0-zobIF7f1MGxClHlpZQFLsJXPzv_0gS_86ygYs5Gl67ajoZRXKHE7Z_lpFgo2W-8u0S2M-zJWtYC8cU-r9p8IoMNLJTgeFxKNrjxwPpPTBDZ16FFeMbe7eEI1ZLJtgRBXiwqKZa5Jg1oeUW9Iy0vJH4gGzn7oXkhYrHp_hNdwSDnwKb2_AdfC1CWTGbox",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ5XA6FsY_aI4RxoFCsil8nNk",
+    "plus_code": {
+      "compound_code": "4V3H+P4 Bucaramanga, Santander",
+      "global_code": "67V84V3H+P4"
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reference": "ChIJ5XA6FsY_aI4RxoFCsil8nNk",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 396
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 48 #35a-7, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1170022,
+        "lng": -73.10928489999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.118300929892722,
+          "lng": -73.10792612010728
+        },
+        "southwest": {
+          "lat": 7.115601270107278,
+          "lng": -73.11062577989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "IROKA BUD BAR CABECERA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105814510662344231013\">Alejandro Silva</a>"
+        ],
+        "photo_reference": "ATKogpfQ3CMQrpngPN3zZ-MKV0gqhb0Vnw7dFX3tFvKcGSyD4kZG92dE81ixU8BY_LQ9hkk8M3pSvci_GloNXtUwwwYMwFJTZCEU26t4vA1McvXz61SVSMt-Zm-zcmEFYkjpbvF9myCXmpgMpZa6MxGuoOjRLcVPL7GkvTu9WCIi8OL1R8LpDR0Q8-AD1oqkrHXt3E3YE-yWNPVs4agt6RIOyU10XjKjnh-dvTiloLOrFby0LgvXYcsEN-3D809PbAhDgMQ-5WiS1Z_EthtdSQ7ihzlMRbto5QGNv9HxZStUuHCXD6uj8HmHXMeZ9Ejn4DgNy6cvZw-pTy7XKD7yzt2HMzMXuf3QEzBGb0Zzn3u0MomnUIHbCRjWmh0S3lnOfBNAfFOaM7-ionBWqUiiHNS3Rgz0DDZhktTxnHLTXspyYKVPED-UgcLv1I3_Z2MYKEfdnYLSL-MXe7PaLz5Z2ZHtMa0SdqTU7EH-pThqUyQks6R2BYEdU_5xVVo7AECaV8hh_7OWuXlNBDaaTROhzAduEcs5PrI5JvOPrbqYKyiyb86Pv4fIgiZ4mUD9t7IwA2tss0VsBKlD",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJgbBOjgA_aI4RT4OHBv7PvpI",
+    "plus_code": {
+      "compound_code": "4V8R+Q7 Bucaramanga, Santander",
+      "global_code": "67V84V8R+Q7"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJgbBOjgA_aI4RT4OHBv7PvpI",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 505
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 33 #31-25, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.125955299999999,
+        "lng": -73.1142347
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.127291529892722,
+          "lng": -73.11288567010726
+        },
+        "southwest": {
+          "lat": 7.124591870107278,
+          "lng": -73.11558532989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Calison",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111614466378661661573\">José Alberto RM</a>"
+        ],
+        "photo_reference": "ATKogpegC_6i10p9wyAqa1S19emB8cMslopsJ_DAk7i0hm2n7bW59qlxfyct1TtkBps5shOx8e6GGRqFHGJFQUM6s-tlCP_9Agh2XvmvT_LLo9JJEXOEwqik7BH7TCUsD0Ek5Vw6lEUB170nT-AJGd1AsB8koctpg71qmKTPnRbUdAikX_YyRYjOXHT6xC0nn1MWXXsK_oBItrZK3eCwPzgTep7V9CQjkwGDjeD_KfZPtqsaoFoYbDDFlx6uKYxJXbbRu6mpWh_85l83wi5IZno0E__MwyGP46DCdROgBHLL7IIjBA0c_aVbwJypLxh_Hqowzyh8AqFmMs9Nl0U-iFil2cXJALUggtUhBFnvtqdXKQhRTO0FGSESlCvE6wc957mXW1eQ7OGlqc13IrJ0FNdhId27vqAIzEq-BkaJ2jdpxaGBdz64RC_Ofbg3l8FJkp_XGMYE2MMNTS7KJBdm928nv-R1XVnQ2jO4Xzzf3sxxtm-v6zZ29vVqeSRf34qqnR4ocMNwwl2TPPxVMgQHA0OGTlDGcpcH4-HTaZEtNmNX5EI34S19u0Q8xhHZPsFFObHxaskSQECr",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJlcDOKmcVaI4RkwvbQwsq9t4",
+    "plus_code": {
+      "compound_code": "4VGP+C7 Bucaramanga, Santander",
+      "global_code": "67V84VGP+C7"
+    },
+    "rating": 4.5,
+    "reference": "ChIJlcDOKmcVaI4RkwvbQwsq9t4",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 621
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "C.C Quinta Etapa, Cra. 36 #49-27 45 Local 106A, Cabecera del llano, Bucaramanga, SAN, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.115057999999999,
+        "lng": -73.108257
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.116393179892722,
+          "lng": -73.10699397010727
+        },
+        "southwest": {
+          "lat": 7.113693520107279,
+          "lng": -73.10969362989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "BBC PUB BUCARAMANGA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100736396065770455310\">carlos candela</a>"
+        ],
+        "photo_reference": "ATKogpdwwLo8eqKCWy1N7ZwSVFxL9NZlEmLsOyM0vejgoae0gYXIuzAsLYHeAS_qSLCkPBueP1hNEiATr1L-L8UzKyfz-YlZKTYjz6elWQszgwuptO0UIrMT3TNnqORzuItyEjrSt2KmNWmppg-28NeMwigxkGnP4NoStMnT199BILIKexlJ4nlflIZ7QIVc-sR-vSt0vFwlgRp1lkaJvcV7K2O7x_ejwVS-bIVwXcIThBSd16hifzYB0QeXyBWeh4_UnIz4OSSDy5Mc_hV0DakkHA-35QH0iHqmstMao9cialC0fe0--ntYgXLr9K2F8dy8oK7DiWL_K_4oXppLMES8u-km42MKBOowY5Tdr1DEzz2iAnTIYXx4110ii-52KxIqSfXnZakHJyJWF0GHEldF1YZk_Gkb9Kzy9FOrPpmTiGYGxhrc1Vo5DNNF_2XLayW80x2KlCVLi3hYOFUhHOyGkQ15H_VoOZ1VzRhd9eVcAQjnUWfsm7G-ak17oLFzPMhTMJJJXh6ZE6o9qQPYjVBt-QQEiqQfqgWu6F1FAQudsRTgov5JKrhQzf7yG7CG1ONkT1m-Ksja",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJa3bY1-Y_aI4R-t8s_EkS7JU",
+    "plus_code": {
+      "compound_code": "4V8R+2M Bucaramanga, Santander",
+      "global_code": "67V84V8R+2M"
+    },
+    "price_level": 3,
+    "rating": 4.6,
+    "reference": "ChIJa3bY1-Y_aI4R-t8s_EkS7JU",
+    "types": [
+      "liquor_store",
+      "bar",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1719
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "a 30-65,, Cl 35 #301, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1237569,
+        "lng": -73.1140135
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.125104829892721,
+          "lng": -73.11266262010727
+        },
+        "southwest": {
+          "lat": 7.122405170107277,
+          "lng": -73.11536227989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "PROVINCIA BAR",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108866062977171960229\">Andres Felipe Jimenez</a>"
+        ],
+        "photo_reference": "ATKogpeo5LL6mRMFg_eNHwQzY5jTkXZRcQfPo4PCg5oR1MSzP0cb2KH6KKhuWtIHfjoTT97Pir7880LfLy9XnU0hDHyZDz_9FZnlTvh9SY7JtuQqcJZjOJDh41ZKwFQUCkFELq83txLfb9nf6wi9BlfonxMdriNB_7bjvlk_1DN3Q-gM4SZUD1EfFkQ4O37PpCZHkY9ulGwq-Rit5ovHzmuo8rxrSjRhYTfptwAKjZgffikKdZeRf6uwAYiOQGVMLX-TMsLTNLMoor-DaLWbRxgpfkW0icispouvQaOjkYP4QLQ3Tc2HcutVt6m9kpI2lF8EzgwdUsCglOccVEdkPOKTE2PcBdWz6GJWu-A4ByQXkVXxzTJQIM6bhfIfiY53XxdtQXx3cmjBz4v2kcoBN7-NOfcXNBNqGKHvZGZ64rpm-_DRtLzT2JN602NheqHBzZ7HdEx9F8n_o3VnVKqxHIf1pai0A9KYC3rqiFp7yce6A7_Twh3eBYo_C0oaQlr8uQOzi6BF6NzdtU7bF_I8qOtmGAc0uhkzL249VFz4JfUpfpRSZa5V3Yz0uf574ot4ZsedfNrd-UClPghybA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJNdwZ_GAVaI4R5u2UzjHdV7o",
+    "plus_code": {
+      "compound_code": "4VFP+G9 Bucaramanga, Santander",
+      "global_code": "67V84VFP+G9"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJNdwZ_GAVaI4R5u2UzjHdV7o",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 504
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 36 #35-54, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.124585,
+        "lng": -73.11026079999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.125944929892722,
+          "lng": -73.10885207010728
+        },
+        "southwest": {
+          "lat": 7.123245270107278,
+          "lng": -73.11155172989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Bar Los Almendros",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118157492334743834300\">Jacobo Andrés Chaparro Trujillo</a>"
+        ],
+        "photo_reference": "ATKogpe-LxvtboPgrbTgnMsAS6VT2rrOaKO9XoxALTxaO_qlJxUisTqvYuBuC7Bd24RTdoL91CD8ZRm142Di4nlATKWFGpMefGwwdyzUYx6bq9fgD9GdKv8Qf2mJTfEB66O8GpzTA9W5xVg01lsrNgPq94XLYiJ9KBYe7FJd4IyubDZm-I_JwUzrbrWAyoFEw18cI0G1T8IjXa_1-n2BE3IlIv88KJtgOCbfiptxxqWR1Cw-SUODffHfPJA7R-M6axfRTq8jbYw83ax1z_eC8trJRu0IOAJPXdPE7NFcdlpn9DcPGPBfr7pTgQJ5JDPR_Z_4xE-cwSlYPnRP-sO-_T8YWmVKPX9rdVb8TzZ7q1MCEmJRtw9uOmifBz2DILgC1TsAM_wC-qp48vxYIDr0UxsEK1S-mNnF0bSWWeeslGADtkqAreRdVgLoznRPRMnFO_azGerqJA1sarpH0TjC9V6w_Hh8BcWRvT7fuxr8YqdvxHqZw0CMXL1o73JFI6667iXTZkNVb8PQz2plKCjCQCSwDvGPLBbkXLMYRKeIWEenxC9nBZLR2nERPUug_R5uuRnUegYsgXHo",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJu2e_Pl4VaI4R-b79cXxuJ1A",
+    "plus_code": {
+      "compound_code": "4VFQ+RV Bucaramanga, Santander",
+      "global_code": "67V84VFQ+RV"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJu2e_Pl4VaI4R-b79cXxuJ1A",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 370
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35 #48 - 56, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1163364,
+        "lng": -73.1099711
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117700029892722,
+          "lng": -73.10853677010726
+        },
+        "southwest": {
+          "lat": 7.115000370107278,
+          "lng": -73.11123642989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Municipal - Música Viva",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1224,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111513174292690190179\">Municipal - Música Viva</a>"
+        ],
+        "photo_reference": "ATKogpdFtayldSIjyFQLt_IkRgMDaAtJ93KafL2WkEouEa2IPwHLwVvEa5niXrq6RI_4SoVlZjSBLw6S_-rV1fS5HmSIE-xTXfAUriOxaY6n4FbSnCiCxzsSlHa5FK1gYpuXOvHtk6yDOazwKhs_aPJf3ed7rkKOUQNPxKA3aJJzAG4F-3mASqojKHAOHe3ZNLH5ukmo7hPFXAxtz2C7einEFB40ajTrYzOQsshwAeCcUb2bhf-o9nC-p0zr1qRc2g-wshUkVV4BpkR8pZakRxwcO5eOaNfa-UK-FU60P9banIy58Y9_WE4",
+        "width": 1848
+      }
+    ],
+    "place_id": "ChIJv7IRvuA_aI4R7_3GrmCU-D4",
+    "plus_code": {
+      "compound_code": "4V8R+G2 Bucaramanga, Santander",
+      "global_code": "67V84V8R+G2"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJv7IRvuA_aI4R7_3GrmCU-D4",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1233
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 34 #48-21, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1163867,
+        "lng": -73.1103457
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117735379892722,
+          "lng": -73.10900267010727
+        },
+        "southwest": {
+          "lat": 7.115035720107278,
+          "lng": -73.11170232989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Penelope",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 666,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104546674432299111244\">Fabian Barrera</a>"
+        ],
+        "photo_reference": "ATKogpfr9VruGaruTJhYrmEgs0KwOda-gXYkhbJPkTYsxU9hhae5KTVvPq_PZNroEOT5uahIdYSzysT89NJxlSUqR0nQjoRNXKxI1DjxOQ75-O-Ufi-lPLE0VUbcaXH9P7kykBW6KsVi44a5edpV2FAd1Zot3lCuR3YqeiUi8BPL_ZNgU1BELpK_lN3JNhM5jN_5hGhb266r9EnxjZw2IuJWS7_xr9o1qXdSMdmpKp2YpmW_nBhhiH5YNf6Kfcap87MdjgNpR8P8AMWoOR0X7x0O54pFvGoL8MQP_X8CQdzDQ3WBmEekCV8GEv7aeLwQ9PsmE1jj56n_UFeAzL8SISQS8nVAY93CWDOhZ4g9nAnnMtciThMVAfQmIWrhqqc7zgLBUWz_8VWIIXMppFxmmqBugO2j6wXJslqfIEl70cCzdSIVRk9eeKJ3DFyMwFQxTyzArtLHwLAZFO8zzF1tJMpgsjPLGf9yJe66Mb61wU8xdo1e3JhpvgLFK2j0gL_y40Q7N8gn8adsFnWbSog_7upGDg5Efe2inn_7tw4vxXTAHQjyDKtwLO7fqE9JwVZaZeuWO081DlVb",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJSduUu-A_aI4RqYN2Nu3zINs",
+    "plus_code": {
+      "compound_code": "4V8Q+HV Bucaramanga, Santander",
+      "global_code": "67V84V8Q+HV"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJSduUu-A_aI4RqYN2Nu3zINs",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 517
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "carrera 19, Conjunto Altos de Fontana # 104-59 local 106, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.085593599999999,
+        "lng": -73.1180949
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.086933529892722,
+          "lng": -73.11676142010728
+        },
+        "southwest": {
+          "lat": 7.084233870107278,
+          "lng": -73.11946107989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "HONEY GASTROBAR",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107745965173727592425\">Andres M.S.</a>"
+        ],
+        "photo_reference": "ATKogpeIpUauH9QEEUe74wHWeSbPoOnlqxWHFG4znoG5sZp91geRbgHQXHN1sFoj9H-NVhqmwT3f-h_8aPreyj-rdYF9GkBbXhRtKqJva58gelAM2NZuXSTfJjZ9PrM1aX-LyxCGohUL8A-2VxUx0q8s4gtRZbXWtJAo7oteypv3iHB8cKJ0MGO-t3kgXjQetnlPrggHDZFHF9lMNQUvtr0aBC8ttavg4QCxbKBBkVjPP6Mt3eSs-bDTIwAQG-NBVYb5xInYgFNy0MVeWZw4fBlJ9pztlzUUXVT-iflIOdBkEZ7KydSkzB5ajBwxu_gdJuwFow55A-dM5CHAOJoBKgwVznKGCwQjUkAVjTeTLKqu1RtlVje1ol1ZYeAC94AT7qEETUrit2glSmuac54RO77t2VtjRWWX5iTSscaVIsiODiLld229w20zlyLkl6JoZrEW04v00x70Sui5avLvQoggIBEbtgzB6SftvpYZ9EgFobqmJnyr3ljFpwPth1yHsDitCPsfTSNW2FmNopyO1-sKIxhz7qc9sHQ-jd5ZuKghzYfWVncGeIVunjf8buMIqOP3UmH12A",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ6ZuRQLk_aI4RL8DExHjWwDo",
+    "plus_code": {
+      "compound_code": "3VPJ+6Q Bucaramanga, Santander",
+      "global_code": "67V83VPJ+6Q"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ6ZuRQLk_aI4RL8DExHjWwDo",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 107
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra 17 #59-12, barrio Ricaurte, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1056295,
+        "lng": -73.11904369999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.107000429892722,
+          "lng": -73.11765397010728
+        },
+        "southwest": {
+          "lat": 7.104300770107278,
+          "lng": -73.12035362989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "CHOLÓN MARKET BAR",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5409,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110404291252809155128\">CHOLÓN MARKET BAR</a>"
+        ],
+        "photo_reference": "ATKogpe_AfOtj_mp1Eqsx4WRpg3Fbr_HXbExTDAp7D9pUDQiZxQztFNuXf4e4IFflWJWCiKKcFBr6ODTJDlvPOfxSLew1fvclb_lwhK1cfiHEzWiRjg7VrSl1OyOnd_5itix3Ld0oqT_w0zdqjcFD0LMvI60bbtjzGHG8PBxmCIy7CY3FGP4AdZoIX2xxkwzhs4wEt-pybaU3m4TIhZItFhwYaZnsPsYW9JbJgIOY7S7K9v6oAg-h_mRBB5RIPyJmXGaGTmdh2HyVB0L4vMsoBL48XEzhxU4dgSHVnzVYqSpEn9TeAXD",
+        "width": 3823
+      }
+    ],
+    "place_id": "ChIJK_2u-Mg_aI4R9kFjw3PSl34",
+    "plus_code": {
+      "compound_code": "4V4J+79 Bucaramanga, Santander",
+      "global_code": "67V84V4J+79"
+    },
+    "rating": 4.5,
+    "reference": "ChIJK_2u-Mg_aI4R9kFjw3PSl34",
+    "types": [
+      "bar",
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 33 #44- 49, Cabecera, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.119456599999999,
+        "lng": -73.11140879999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.120798629892722,
+          "lng": -73.11010467010729
+        },
+        "southwest": {
+          "lat": 7.118098970107278,
+          "lng": -73.11280432989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Barrio Central",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113590435803130277824\">Carlos Moreno (Carlos Moreno Photo)</a>"
+        ],
+        "photo_reference": "ATKogpe82fncH75CeHdYWA0BHo9Iowb3uR4xZgRIGyMvAok6SbPKU-fxQasxtPdKRhqllgc9dbEa4bqhnFPXEqj-Kd4-TyRK6kWste4ZTfRsJRjI2ofWC_vHNDhKnfRJqxDJYaOqM5nh7AP5EK0bIeDIbH-6d-3NENgq4OMS9wuFO4q0UstcQLvGjhS1iAg2hZ26zL_cBEUQFBEKP8mimyYcz6n6Vo9snU37muwShdzbiLyJKskqL7Pj73tYSOi3Fnynis_MhoBMPc-6wgGxJGftRWQb2SOEOUiSLVeHteh69KxM9l3MYmHTzFFvoa5AVz0xqigHO8Ge-KqXaFry82aChsWhkS2EaTQYQuUDo49Ob2xOyXyet4f4rr_TrqmveBATGmaONMuEDECa2ej13YANd5mceh_NGuKtclwD0N0oZootayO40FGuHQDighB9bCS5zRMy1CpjXSTrQ2Qbhlyp0-XUYYBvv2zvX3_GDEeimVckkwp8jCVcTIoJ1AXzFqZYdqnbThg1Z2J2AppaeXcBWx73Qd9K_73tcW3ljiu7Eh9SkYoZxq3awujIo1Xuq5KpI9D17BAJtPh3Gw",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJN4RD4d8_aI4RtrePnAE6YDw",
+    "plus_code": {
+      "compound_code": "4V9Q+QC Bucaramanga, Santander",
+      "global_code": "67V84V9Q+QC"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJN4RD4d8_aI4RtrePnAE6YDw",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1609
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "calle 70, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.106601,
+        "lng": -73.10226399999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.107817729892722,
+          "lng": -73.10100357010727
+        },
+        "southwest": {
+          "lat": 7.105118070107278,
+          "lng": -73.10370322989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Clásicos Forever",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117834788472422894440\">Jeferson Ocampo</a>"
+        ],
+        "photo_reference": "ATKogpctHivDGNG6idD1wb_1wYvosMYL3K4OsMATAYJa1pPXmy6CuKfSjjDDFcy3Ce4SV5SRZP1Q7AMKUiwEfOr35P0znrVRMSdG7p3dlRGQffsvaycpqIWTGIM3Kn35pUHMLVdMNrW_Rz5gF6k7guTUQTXkBK6I72tM7fHrSlp_s9EqCIkSRHXXQZ-szIq7fgt_A3rHbF2Vl_XK-1LRoFAB8atJ2AL-XSkwbMX1A_k2zInGEPLpcjYQ8PNZ8N9SBIx6r-XIofNjtMlVKlVKPF0asBpa-asJODNXOp-dHXtf4SHN5x8DAemU9ECoDgNd-FXZKSkpbE_HSPEVrhV93urI1Icg6uOiHqarRm7hihSF4sHjNmopm2pDJjAfM28BgBBTJRZeDeUNsj2I04UU0r201M5bjGeuBXuZdvOrobcpwp9hzVxt8zbG8yDuo8xPR-O3WBVa_qL8Du0u2pm8LZrdJ6Gs4EdHi505g667VXCAJX8jvmxEhflDgsq3Kze5Qqx6qmiqnh0tTmbYFDoSXung4W48KwMENIPAd_BB229BDdH-1XpRQY5L_u9osZ9-oB2vJNwlsBa2",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJl-f-9e4_aI4RgZUHASf0Nw8",
+    "plus_code": {
+      "compound_code": "4V4X+J3 Bucaramanga, Santander",
+      "global_code": "67V84V4X+J3"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJl-f-9e4_aI4RgZUHASf0Nw8",
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2331
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35 #48-77, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1161202,
+        "lng": -73.1097278
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117469729892722,
+          "lng": -73.10837967010728
+        },
+        "southwest": {
+          "lat": 7.114770070107278,
+          "lng": -73.11107932989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Le Clandes",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101462038046254525293\">Pablo Rueda Porras</a>"
+        ],
+        "photo_reference": "ATKogpfgcjsHjAu0IyR6KymGUg54WPT6LvMYpwuAvXym_QwQxM57695jEX7h1fND2tgBcZymPZ367fOmfI10wAQTV3Tz49g67-Kjud9BxXALCbxC8kkjN-dxArbk8EPngDUeBtWe3703x5vjOCRcqhTFiW7lZno8Wf8u2PaAvEsqKgfNod46EZQgK8I8Y0z9ZVo5b3ewNdEMUxrRDxkUlDEkfMjmPlt1aLbfVCVdWsi5twXquCS9c3vXPl4BkQdjiRkp5bdylzuhePgac_54Gr3_Ws9BZYLU3cBYDRpj98IeIiHDiaksGzubz98ivL4JcxUF9rzAaVlzZJysYZAXR29Vn7LAG9324r-8RtrqQo_u0X1fdBquddgDv-7iAxxav2Lbm8bFhFZhjDWFNg3N-H9HArzkpNexFIPlPOJU22bw0Xgb0g8I0BhH6QQ4BPD-zKX0DJA4zxaW7SJ-bWUFyK56grDLM0ojZN-vWY8RtrhoH7wEiVFlppBF5mAUs_utxdUkkKdPFq45WKh93rfOVyXLcUx9OhKWlaxy0hBV9LzdgJOjNLhk1Xr7vrgsZwsXHJTcZlzFsILf",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJq4TwLhk_aI4RrxFXf5PVlxI",
+    "plus_code": {
+      "compound_code": "4V8R+C4 Bucaramanga, Santander",
+      "global_code": "67V84V8R+C4"
+    },
+    "rating": 4.3,
+    "reference": "ChIJq4TwLhk_aI4RrxFXf5PVlxI",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 207
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. El Jardín #1, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.118661299999999,
+        "lng": -73.1047509
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.120023129892722,
+          "lng": -73.10344777010727
+        },
+        "southwest": {
+          "lat": 7.117323470107278,
+          "lng": -73.10614742989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "La Toscana Restaurante",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102341485477900031133\">María José Parra</a>"
+        ],
+        "photo_reference": "ATKogpfO3vRv3mQFQzflLW4FqPiFngllZTnAaLtYE5wN7EP-maMN1Zs75t7dBqw1tGp12AZJdlEmBiXu9Nn6uqIkACjsR9hbiPd8SOQ1Xy82fpgIa7c8yRBveFhLTpqivsrsUBy9ARULoPcy66KUykzJh-AYKWHSI1eENFqhUOoXnn7yw1ZT0HZyNzFS_ruSvLgZKs7_P3J__PWiMzild-EAdZznoopEuxwiCxCgrAqp6EqTKcbLjPwWQhlV8KLtx4M41U7s_4wRMU29s2QYZry-DxGKK4WwdJGC3tNoKik6ISdfypzINVVAPnsfzKLwxXr14Ahy6spMEXR0ln1YJA1Wofn6DvywW1xFLjvHsoIeJDmUO2x2BeoXeA5m6WhUhMRsBlwoiMsheSmDvh7mzfj4x5scK3pgOWv8TL9lgJLw2TS37Dd3Ujh9tijYOwTy4uOZAlQeiDYfMFrufB8tpC-GG8LhjU375U9UGLCrYgUjdk3wjqLjbVe_zO1U93ZDCj7X5SHFlZ1ZKd0yoy70KuWkN2II-EFEl5JGtUQUkD4c1MF787aauNAhlLzagOjHvDTVkuS_rHdRWGDFCA",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJ2TiTOuI_aI4RVX8msK-7uZ0",
+    "plus_code": {
+      "compound_code": "4V9W+F3 Bucaramanga, Santander",
+      "global_code": "67V84V9W+F3"
+    },
+    "price_level": 3,
+    "rating": 4.4,
+    "reference": "ChIJ2TiTOuI_aI4RVX8msK-7uZ0",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3327
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 52 #35-34, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.11329,
+        "lng": -73.10894499999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.114693529892723,
+          "lng": -73.10760517010728
+        },
+        "southwest": {
+          "lat": 7.111993870107279,
+          "lng": -73.11030482989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Macondo La Cuna Del Vallenato",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100663734890298171359\">Camilo Campillo</a>"
+        ],
+        "photo_reference": "ATKogpflrM8szEnTO4Wplsyo-cM1NHATcmDIWuHq1FaPD-_yEzMYuWShRJ2Rs1kC5PUMgz8vlqTAxoqSimyVkkOltCU8KM9viMwi9Hb_V03mBDYdZhdrzgWPGL5X2lgRe91ZsrQ2V-ASirgCeTRZiyjnH_uRmkbScnK6EvlhUfzDjRKN2nmBkHSvIL1C7L2Krt6Wty7fLZ7xGmH8hCR1tJPWGvyoKas_zTe-wSmR7ppqWz7uJOp6mUfz_kjCekHnUIRFOIF72uqLDKUJvJTVTAxAazEC6cqq2PbaqM6CoUCpr8tNeuykjxh8_NsfEOSBPlZ97u31M4aEx5OqfiuFWxfqU98-hYjZY1Ciqt8yOFvseOIqSOCR-Q4NUcDx-ULF2rx8vKEA4_N2saKFsz22-ZnQf3Vx1aW0cfYm9GsDtv_n8sekuyfFWjVRz892doy6rnG97TTNo0qibZo2E1Frio_Mj8PiFZ4Plxah0_5DbyRpEIgKypnucAzA8WP0Od8omO1uwH9BL191nP7BWgqgDeopxvpR9OJPKuVuGgRhIFGzkGkj2t-YyjNggP1WqI7F9zt_bc0TzHhEkERavw",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJx1pKBt4_aI4Rw7x2T5xcftM",
+    "plus_code": {
+      "compound_code": "4V7R+8C Bucaramanga, Santander",
+      "global_code": "67V84V7R+8C"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJx1pKBt4_aI4Rw7x2T5xcftM",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 521
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35A #46-82, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1175127,
+        "lng": -73.1095095
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.118864879892722,
+          "lng": -73.10814377010726
+        },
+        "southwest": {
+          "lat": 7.116165220107278,
+          "lng": -73.11084342989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "SANDERS CERVECERIA & ROOFTOP",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106799453171043158791\">SANDERS CERVECERIA &amp; ROOFTOP</a>"
+        ],
+        "photo_reference": "ATKogpdQ5lBbsFxzJnSf20iUiulPoBSwXVyikYOYAvPuQ4iC0-9-LmuhtwVkZyloDfj-ICtw60_Le7Y-MMuTBOeC5T4Hmkso6fBChfRn1Tq8rDdousB5_VhtEM2C8IyldM4isqWsGoas3U_JYvlCLslzggn33ZjaJS9SxWC3FWBXo11lz0YhKs7DHwZvy1ZkxBCnGz-n3C1jd2ukmiAW2Xr4oJm_bEWrnPblPtOFEQevcbGxskLS6K6tE2ShzUtrfaiByRb3UbXnfG9Jp9j30OkKIEUH0SdA11G8XVfxZLoVGyn4mUYJuUo",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJ7bSeOH0_aI4RVGSI-cgcl4w",
+    "plus_code": {
+      "compound_code": "4V9R+25 Bucaramanga, Santander",
+      "global_code": "67V84V9R+25"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ7bSeOH0_aI4RVGSI-cgcl4w",
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 75
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35 #48-36, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.116501,
+        "lng": -73.10995249999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117856979892722,
+          "lng": -73.10856497010727
+        },
+        "southwest": {
+          "lat": 7.115157320107278,
+          "lng": -73.11126462989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "PLAYSHOTS",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 666,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104546674432299111244\">Fabian Barrera</a>"
+        ],
+        "photo_reference": "ATKogpczrWofWZB76Y9vH44nQov4fS-tRR_HO-YfCgHEOtfCFnWhhC5hGINVNSAgNr7v-SKbPocGnwqTZ9ZsWRIxI_b2_l8XJ-U9pR-aunA7v_nifmj7Z7O2gpHEu-Mx02C6C20MxLQIh8HlGyN8soRElbLkhO8sXuRxBdNoxLC_k-sbVbGba66p4SWE8MA_xPYrEuQ6XbV6YvAupODTMkWOnejpYCcPMLnZmvrskZqciWNS1eOcV4raf11Chcf7-aqJHgBdDSUV5YNAVLAic_r9PXIEWBQ7XRNthzSqOI0iJQnPXURkHup1iXRqRJJ-wT2ccB5xs6zQbDMiMEv0OL72bMT2zxKCxgJAtNTFK0AcR0UnFoy-dH8hbXErrEve81A-UWiyW5gmDIGIpHlWqeonaA6IxENs72Id1mNbJMIUVZOdTw-snjuruqLBTlMBcA5ZAAFR-RZ4pbJOB2BrFAGULz6OXfv5eA6rsjhQ54byxuKAXlVGB-pSIg2oGEHe98KHm-dRLhNY3xlvgjPXEUCs2ima6VvPX8ngY72stc06lmD2a6dn-zeYD8jxJFYOxeDasu29_VR7lFh-rg",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJMRMcDOc_aI4Rvz5GWgwLN1s",
+    "plus_code": {
+      "compound_code": "4V8Q+HX Bucaramanga, Santander",
+      "global_code": "67V84V8Q+HX"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJMRMcDOc_aI4Rvz5GWgwLN1s",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1125
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra 29 #41 25, Sotomayor, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1207394,
+        "lng": -73.1133775
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.122053279892722,
+          "lng": -73.11208002010727
+        },
+        "southwest": {
+          "lat": 7.119353620107278,
+          "lng": -73.11477967989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Mosto Bistro Bga",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106695358012316246202\">Jose Caballero</a>"
+        ],
+        "photo_reference": "ATKogpdFUzBdVSR0UIR3KusWbXI22xeGgW_NRIKLoeNV_UmmmDtPBv09uVInVfr5L2cquN0yuPWrvE2Cbt7cC_GFupVjVX4s85_bpb8bSnrCOh0FPqfWImp2ICXrOoXcnGzfhjJG78zJ4xKfo3Os4ZYypHQzyrt9k7NxmPjS1xhLE-bn_ITxuB0T7vsXupY4IFA2BFfNmcUVQ0BI_jUEU4vaiMKqVc5e58ycE_L84uqhOlelYhAfcKUgdKnvhC_j0_bAXgH0Pc5K1spOOwgOZjGpZaUL5tAHpbFgGpZJ6sN-HEoO5O0xh8ou-hEnqrGqKzZ3nAk5_8OyeV8AydWvja8iOOPBVeEH1Cim5RcecRWQ1FbkuTIysL8vCPqC7uZ-n7uVHf4VZlKTl1XumJHwVYWsSH6EA_XUmxrJaWtzyRDlxg1V9OyvNzgdhP82Ewh2v3Nk_OrwG6l5eNnrp8g6E106sFH1cplTw_9LiV-lj7kY5RkxBL-NXa6QxbGiWBgL3HOheZOlHZ7-zjWBEn008ulB7vfljSVtiAqsyMj6KMhQ5Dz3DXW8U7Wjc7Zh703mwHQ8bImRKFss",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJPRVfcxk_aI4RBZ_PAyXrvEQ",
+    "plus_code": {
+      "compound_code": "4VCP+7J Bucaramanga, Santander",
+      "global_code": "67V84VCP+7J"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJPRVfcxk_aI4RBZ_PAyXrvEQ",
+    "types": [
+      "bakery",
+      "meal_delivery",
+      "meal_takeaway",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 835
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Calle 11 # 26-50, 7°08'12.5\"N 73°07'16.7\"W, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.136849600000001,
+        "lng": -73.1212642
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.138253879892722,
+          "lng": -73.11992662010726
+        },
+        "southwest": {
+          "lat": 7.135554220107278,
+          "lng": -73.12262627989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Kasa Guane Terraza",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113322250050588386380\">ericsson matos</a>"
+        ],
+        "photo_reference": "ATKogpfhy2Pv71PV0vOKelCVrWwL0mQOQrqRoAQlCaNf-wN6JlynMH2ISJx0Qu1lwV9YarAJ_d6e1PrgrJK5jpQPjV8A8-IG3ZSiYUdblBIkG3UDwvBvQCtOCSflguAGBLWHRe9iwwP9XD_b6RhHG9QV_O5yQTRJ_7MEdTCNKYCedgkTmI_VXwmndjVhntMbaBgwCz6VaJTNBNjBn7WVHmGWSvTIj11bXp3ICqqdXfb6JirUJjmy3S1jUludJ1zPXGNrlb8CU_62qybS3gXGT7z15dv4MRrY9KCEgCvOQMN_3PD89M0GgLLXUGevir8hLsWBL6q0nO51GP2Xh6X0Y5v_fdTyiA-uNxgNsFzGg-zYIUGrmQ-sNVL_hQEtL1DOsS72SwXTfFmef9_avtwTMCT-vyeNKCR454CTMlBmNuWKn6sig6UdehQojc6xCFQQ7Wf1FlVaMis0HYy88JiyihhJ_XpuwK-kbqosudgOF0QWvBiL1gjtNYBVK5L03z3CXaG259L80TrVZKdGQTiIGqRQ3Gp5JcXqHOiyVodnP_iBMDCvQhLuf0ElS_tuPumW34HV57xO_Q",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJa1Jgdd4_aI4RgMyXiAWxgpI",
+    "plus_code": {
+      "compound_code": "4VPH+PF Bucaramanga, Santander",
+      "global_code": "67V84VPH+PF"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJa1Jgdd4_aI4RgMyXiAWxgpI",
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 595
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 34 #32-37, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1252128,
+        "lng": -73.1133823
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.126497629892722,
+          "lng": -73.11199437010728
+        },
+        "southwest": {
+          "lat": 7.123797970107278,
+          "lng": -73.11469402989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Firefly Café",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117279467494271974480\">Nicolás Carreño</a>"
+        ],
+        "photo_reference": "ATKogpfI7Z38ROWHCuIwqnhoz7zQU5_dgVETPrYvtWPWECz_ukYpT2eR4RuJ73VgGlXAbVGl95awtMakSTgIkbPlPDiY6iRBeYz-Qphxng8Vkx9PedVyS39h8NU8ETW5mX0l7H72rwzRNm1G7pQ462w10cqkNdENH6iFERkSNISBMSzB1plaaanYM_yaVeeQdmAQQt-aPeWb_QeGdKLfGTiQHndE3KV3kV19XVoGdOY_U5deoFh4y4LJyis695-EiU91w3mt1EtO1ujFbzkw7ZDMeLInEmecYUEUhspHx6-9o5BqabxEsXtfe3FkF82rk5V-ca1tdhMDWmJ7DsfT9q11J9KTuKUTjIhYE6LyP4nIvLaLwcl5PdmW-B_z42WYJODZPsfr_DeH9sMb6myEmRYF6eb019S8k_TND5Lr139ft8CqCpWKRqwXBocJH4N9VqZQsopy1NxPJOyGTR_2l2FLBNV_qhixHco94GWZf3-tilV1IA8nNBY0iMlz_iIWzZwmCgSTEtaQBj0qs6bEuT6YbJfZcLq9EXoUc0RXUg_vwS8R6ERJArh5N9_u5oddt2VvQi1cKot40Q1XMQ",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJAQBAf2AVaI4RyPTSglJ7fKc",
+    "plus_code": {
+      "compound_code": "4VGP+3J Bucaramanga, Santander",
+      "global_code": "67V84VGP+3J"
+    },
+    "price_level": 1,
+    "rating": 4.8,
+    "reference": "ChIJAQBAf2AVaI4RyPTSglJ7fKc",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 677
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. El Jardín #Casa 43, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1167057,
+        "lng": -73.1043133
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.118066329892722,
+          "lng": -73.10300817010727
+        },
+        "southwest": {
+          "lat": 7.115366670107278,
+          "lng": -73.10570782989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Puerto Bambú",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116530067604896164553\">Paula “Paula Rueda” Rueda</a>"
+        ],
+        "photo_reference": "ATKogpdYPR5--eoW37ZdSMhgGPltYvkm9f3hegjww7NO-SFQqj2m6KQUTEIUXyS9SVp7rkdAeqROvNM9JRP3-YSGAsIE2u21CS9Waamgz23BXa7KOToUUX3kojDMO7C3_8inARYDyxRl7ixZiQXOo6It9nuYnBx7ZkzaneW48FcPFB0Rjo-cmj-qUAmZtXzR_VaQ8_aedursShx3xTUpWCEFkqvjLh-IvA-5ZFfECKwG6rTdjOGYOpxYIeVpesoqFNRHJ1C4x9t0AZe17AvjAhtecdXrHgMnYZ-jy1ihWqDx7KdP8dphFG6ix_lWmO7emrcmE8xmaS-IdeN8PZUKFDAfXGoW5JyuPnwJ2ejwbRJ4NPYUUeUUpwXhspUCpE5aU2IYZCujQi5uSQKlVYFwsS-ZisEnR-kvr3Rxv98MwHFxirObaSHHKuprLDCe1hxibd_ZOzZf5eO77y4jMtwAGYzXDtBEA38sX2kLOjXvu07Am2jI4Y4F0OWiSSF-0dgo6iOVG_YF5BphF3GIHiNtYGEbEsN8l7rV7bd_hGyum6juKiEdb5_413TTP2oPfP_1K3WtmQqUSAjR",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJLx2bweM_aI4RxpcC9smI2ns",
+    "plus_code": {
+      "compound_code": "4V8W+M7 Bucaramanga, Santander",
+      "global_code": "67V84V8W+M7"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJLx2bweM_aI4RxpcC9smI2ns",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 797
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 18 #21-46, Comuna 4 Occidental, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.126875099999999,
+        "lng": -73.1268673
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.128230529892722,
+          "lng": -73.12548217010729
+        },
+        "southwest": {
+          "lat": 7.125530870107278,
+          "lng": -73.12818182989274
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Comejen",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114753579219499213108\">Ricardo Vargas</a>"
+        ],
+        "photo_reference": "ATKogpd4mnfDfkB6hvt42XRxh4s0reoIKeRD8CHo6-1ObAA62BtyuDyI6L_zZ4Pfm3kuZy5jNRdWErln5nUu0gudMa0mOJ5Fb_E3KoGLCHzIW3i9_h9NMJafJdcrmgALYLUdFxTCKs6woR8LfsE0PreQ46qKgDVCjbL6Lu0ownjI1EHzb62ssbA6pBvBMb2WrUygrx8lXTuA63RD6_IhueJG40rHdSU5ndowr3i1LWjuEckGdL8nIWHia6pu1DI9fW6YTG9LPErYo5Qk1yZ9fiyp4FXnNlrS5oCJsunjqZoGyryXgVuEaa7EEmvdtvDfFmG7XBxfziBGkQMue-yCVJsiUQxehWwnSlttTvtPHKZl_L78L9BtRGXvqIwoZs7UdcmyT53j4y-91zdL2OOQsWbcYPVaClUMzAC5ZWTa4PXsYDvAgK27Tf8tuw6NFxc0Zy10gRY7nJ9o3ztk1Z0TLR8HdJPR7IbvzuXTtn5egu4ZyDpf1q_i93bMF5LwfTfgjBBZeka_5nr7dACRuDn5DIzpnbhMjJJozOIeXcivg1R1vtkBj-VGSNk8oT0pVgZjUfCJUjUwoUCyTUH4RA",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJK1iDhXsVaI4RjkuSc54s-mU",
+    "plus_code": {
+      "compound_code": "4VGF+Q7 Bucaramanga, Santander",
+      "global_code": "67V84VGF+Q7"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJK1iDhXsVaI4RjkuSc54s-mU",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 227
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 34 #48 - 46, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.11628,
+        "lng": -73.1105457
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117644729892723,
+          "lng": -73.1091088201073
+        },
+        "southwest": {
+          "lat": 7.114945070107279,
+          "lng": -73.11180847989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Dulce Pecado",
+    "photos": [
+      {
+        "height": 4640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113990616166445383925\">SANDRA LOZANO</a>"
+        ],
+        "photo_reference": "ATKogpfh_niX1zlH-BK5YKbMiiOheUujjPbPxwxWHOF9qTQs3DN6VcI160icmgEzamaZXJRpC8Hb8Y8C4P7KjCjWHQd9IKLmfKyf_u0duCC8nTSrgwqab49D-4dv_h9d8tPuDj5e3lVoMuC-hHXS0LJ-XWJK0sLGWRtAHzinNRqG3jsvlSkhN3BRkSUcnagVjpUsZcVtud6LbbVW1QbnVoBUh6Fogkg6spTajTIq06K5iRXSjYbdNhonraYo2zlVYz5juu2y-vRjnJStvZnVOO87Lz64Q53qE8WNAE6WwlnvlB6QI_BZolyABus5MlH1tD9dY6gWOOLiEmw0ZPqxVLkuBgRVakYd_MAw_T-_GPKxLFUckRTM6xfdpgWJHAB-SvnIIg-FpCLgZOjSedHi2LkClkKEqSPdQYmUfFK_zrchg4eCB5beS7iqn0aNAmdMi6_1Jz-7Ia_jnqjQ5f2ZHD1NQBOGmzXP5gPtXanxqu963kaWq1HCIJFrAn6VnEAj_iuWX4sjgzyiRy_J_O-AtkavAve18bfHF6Ec7EN1h7RHHd_sI-O5_SQmxayZoDYNPyRyeINZfMff4QrFXw",
+        "width": 3472
+      }
+    ],
+    "place_id": "ChIJ79QPeD8_aI4R1UraiWTpOi8",
+    "plus_code": {
+      "compound_code": "4V8Q+GQ Bucaramanga, Santander",
+      "global_code": "67V84V8Q+GQ"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ79QPeD8_aI4R1UraiWTpOi8",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 161
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 32 #32-106, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1271403,
+        "lng": -73.11309299999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.128571929892721,
+          "lng": -73.11176642010727
+        },
+        "southwest": {
+          "lat": 7.125872270107277,
+          "lng": -73.11446607989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Apple Coffee Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109764883408252109680\">Apple Bar terraza</a>"
+        ],
+        "photo_reference": "ATKogpebwc7YAouW3ES--rqz3p1mN54NAQfPWNcnlHPKsLPNJJ3EV_qWBUkjGhvpo18Zznlyo0ucVT96LRaid7lTKzbWmZ8y8B-qmyQz_wmrwjpo_sI_9xBOy0qgISVS7Min-jwGu0LfD2aHi7fATUe81k0pOtDkLsQ83hxsIkjD8Fd9ma3-cdpNpU5kHwIo_pjjRM7t6_KGVSHETgRIC9tyLTJdw1F_m2h2l3lQrcZLaMPuoR1OAP4wxcifRtLi125IN29ci7CwEzJ9NTRr1xPA2gmZuDd1eVU88XcnPWud5j3xVsdwZUo",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJwxLMYec_aI4RnDJ2ahgeCNU",
+    "plus_code": {
+      "compound_code": "4VGP+VQ Bucaramanga, Santander",
+      "global_code": "67V84VGP+VQ"
+    },
+    "price_level": 2,
+    "rating": 4,
+    "reference": "ChIJwxLMYec_aI4RnDJ2ahgeCNU",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 73
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 67 #12 - 06, La Victoria, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.0982606,
+        "lng": -73.1187054
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.099610429892723,
+          "lng": -73.11735557010726
+        },
+        "southwest": {
+          "lat": 7.096910770107279,
+          "lng": -73.12005522989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "EL PUNTO VALLENATO",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102353665493924258092\">LUIZ PRIETO PAEZ</a>"
+        ],
+        "photo_reference": "ATKogpeOfsGlz4G6DjZq9Kpzjn3N7VAHp-A1ZayLL_sT-EKx5yuC7twR2BIwoE3XZuEnPMmSib-URweIyWpmHtG2-6bqlj3FnTzQMRwcJEF7ki9FsNciIoE5IGg_GEtmBS52DKPkyLQrxVv7yYrYmF12dtz-2eOJwhPAkM9DabHR9TaQDBMYtfVbSaqcnt5fu8yaijE2ekBQyQemb8koZt2nV1eVC4cUCWWcKI4mwWoFxjEmJBykHm9yrTjFfQRKNZO7zqlcytl0sPAOw2ooeMvhilDMGbkYUmhq8JfSyEqP2ulddQuZNU5s2anlRLMsOg-Q0SS4Eg9acsJMm-Cyc0VAlMx5V6cODdOR1ytJc2lJnzhpJwu7-E5EcAcwFwuG_tJ6KGpOXYKUAB_dl4jVeUibkZXB9GFJJ4s9hNUjeYKw7LXyfap7D7A2KkSM1ev8GUPPIfW1SrzSFZSfalBJx4KwlyJphFgXOh1mLQ0br-mOqgWVH20jznYPEJIC7rXUa4krMpWNe2DW36HCdujpWPicDuV6g3da4OIzI1Z7cIYozTdzwNIgHUHZq9k3jF9-_R0h-JGmX59YR0cawA",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ3Tta3bg_aI4R-xhcxnQqQQo",
+    "plus_code": {
+      "compound_code": "3VXJ+8G Bucaramanga, Santander",
+      "global_code": "67V83VXJ+8G"
+    },
+    "price_level": 1,
+    "rating": 4.4,
+    "reference": "ChIJ3Tta3bg_aI4R-xhcxnQqQQo",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 82
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cara 18 #54-07, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1099285,
+        "lng": -73.1177809
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.111311529892722,
+          "lng": -73.11644392010729
+        },
+        "southwest": {
+          "lat": 7.108611870107278,
+          "lng": -73.11914357989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Disco bar todo bien",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105327584417678238007\">Cesar Pabon</a>"
+        ],
+        "photo_reference": "ATKogpfV8kBSm_O1-dCMC0jsxPqiMFgIdKUAxyAZM8W-zpmojYOwyfvgKaBFpZ8tKsA6Ss49r7dQ0JCN89Az43Tv1LMeMJMgu8nyXS375jqPH5bfjmmZyKwLkOHEJCvUTo4AnplCE78A8KZbUdQkk0QXJp3AL2iYBir7o3m0vZ_mTlMF0X2cZpKPBOWL5YAPXYuGkAvI7QfsHazSKwDuRSFyqSZGdYrZp411zc44OeNUIf5zePhXP-mBg6DY9KQV7SZSJ42eyhB5-DCVE391k8oKJ_rKbcM3tWs1X_5_c6o95vrvFINupwlrGsL2F_7uq6xdaNtwDYz4JbvdT8OlPYBd8Dhroy1x8XvmxYgo38Z5tZe0b8zIVy6SPBa5yKXPZ2cWS8vAxann2SqTKgKz08Tg9OilrUrNFrYgW8UVWN1rZrlwzdm40aEEDIYvDkj1V9Ut2M2ZACKxq7ja4lCJUxVdNlo2TiLJEc75QeLLSY80Iif3DMD-42sZyAtUKNGXX70yELm-ljfZNlfygH8ZWXiuh7ybVM50HLIkPlSrmRQOZSqvQiIgsItpMLV0zr5Glbv_7jMmxJrM",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJ07B4r8Q_aI4RUY0D4veNnew",
+    "plus_code": {
+      "compound_code": "4V5J+XV Bucaramanga, Santander",
+      "global_code": "67V84V5J+XV"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ07B4r8Q_aI4RUY0D4veNnew",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 66
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 33 # 37 - 39, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1229815,
+        "lng": -73.11202449999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.124323379892721,
+          "lng": -73.11072472010727
+        },
+        "southwest": {
+          "lat": 7.121623720107277,
+          "lng": -73.1134243798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "El Rancho del Charro",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110613496493171965364\">el rancho del charro</a>"
+        ],
+        "photo_reference": "ATKogpd8ngDFgoLBfio3CTyllLIzOhWzZ79gJPtY1ZlGS0A2PEAWf8KZs4_vE7d74NTUh1WuqjHGrKhS_-jlGzLmXJPSc3bQVzGfM6ursja_FQCY_Sch6QEvHcNNy0g7Yu56sbWR2usOKGB4iEL52al_EbxpquPuO_qC6u6IRzuEmeMY0VhIGeI3v0dn9oAKeidxEFYnENuaT0t53EwU4FzaWtHK1mEqP7XEYnJRL3zHUabfzDVK-pSIx3LlWJ1P7D0vd1l16Hn3IksRzg-J0hOPDvNnWgpRov81NWluodmQjPDrgi-MIA8",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJUZDRBasVaI4Rp9Vs2N9dk8g",
+    "plus_code": {
+      "compound_code": "4VFQ+55 Bucaramanga, Santander",
+      "global_code": "67V84VFQ+55"
+    },
+    "rating": 4.4,
+    "reference": "ChIJUZDRBasVaI4Rp9Vs2N9dk8g",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 93
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 2w #58-37, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.100728699999999,
+        "lng": -73.12976309999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.102067279892721,
+          "lng": -73.12842527010727
+        },
+        "southwest": {
+          "lat": 7.099367620107278,
+          "lng": -73.1311249298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Bar Los Recuerdos De Ella",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101940092545094568623\">MAURIZIO MARTINEZ</a>"
+        ],
+        "photo_reference": "ATKogpeGK4yipXMlBVqFT3EChsihgWQ1EMb-INOnSTvvrnTaq2BxhpGuQQgOIi-1OIVozfwnJhkcXUOoWHBzZ5BnYWeGBXFtgAhRoE-M1Dg6ca7sUhBZIb1a8oUO_RdU4SJ01j5uGOsTfGrGHJum8fegQn8nXZihLvjo_4_ZHlszdrytli1di1TgbLVZwEeVeJtP4oNGQsHoQp16x53YXNn13VPEa_mmS2pQbn9cV2IVVQ2vUx4TdUWTc4Et0G-uwhUpbWD0iQbI8qZhjLRNm-Mpu5ibaCSlzGASfWFNmAfBcs0YinJRFJvW4mXKx1PB77tDDGfjGilkJx5g8dOfbAPdJQMN4GYb6IyQNsTeLb_3vLLyXAUiepkXQtQln5DGUsujk30J6IPbiVY7kR5gyNg8Ttfrqd4IGvUg4vGbQv15j11WPTk2cz12NSypuwsaTU5g2ZuDYmS9fKWpjbE_twLZvASgvPi2O4luhOTEvWJgonXQIjjZEeDIez2VAKVk1wpQ99a-Vp6e-YAzarTC6Zm0ShsRGp3C0rAHNJyi208_auxo_rCatIk5VC-is2mNgdSzcWoZowcDBU2f2A",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJA-wlOds_aI4RTpfVvnTWIik",
+    "plus_code": {
+      "compound_code": "4V2C+84 Bucaramanga, Santander",
+      "global_code": "67V84V2C+84"
+    },
+    "rating": 4.2,
+    "reference": "ChIJA-wlOds_aI4RTpfVvnTWIik",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 65
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 36 # 48-84, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1161786,
+        "lng": -73.10873
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117536779892722,
+          "lng": -73.10733272010728
+        },
+        "southwest": {
+          "lat": 7.114837120107278,
+          "lng": -73.11003237989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Baba Yaga. Arte, caldero y Tasca.",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105375748628467525738\">Yenny Jaimes</a>"
+        ],
+        "photo_reference": "ATKogpeUsjiVex6JpbujFDWHAkbWDEQ77OtYWK_9M3SRUCYrrBUlnyvad3yU3yixXK9ER07g9j7e8D7WjdXNhMYf09iAwulQDu86Oj2A2-YVH45eoF5Gl7qeaKvnNrgoqzQfaBYafi3RAzKsCUK4TB0qHQRe96ru3BJoWlY9NMyMA9EDvjMApkfmSIQLphW1QL5i5qGS2-ehrIXWKWFBTLaaEGywaMOiXVEcG4CyLodG8sUISIg55EF0ktg3zew0qf7cN9823TOBIn8UFW4tY81h_VzDRXyfPKU2PIvzVMCTSAhJ0S0w7o5N8YDyyZ7oNBDAA_cnbFq9ceWfuHdEdSEqJ5Hw8C7IAODJ6z_ZGFxGUOaJCyqZfPc27PnMA2HP2Ujvjy7me34PQJJPnx3EE_BbM_3KV_rp5KDjVZQljQgCjSa2Iybkyhv2v9X9NlQoNYR4ffe8tZnoI4o38wfB8J71VaWklJa8XJBeskvq6Bbug_ul-17g8Z193KPZl0oKUh1woRGMl_Kw8CYJfQnOTz1rudeloNfUCRRQZ9sETYFruIbk2bY6JMmlxynko1EwMe2XdVuhq2PP",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJr1TZNX0_aI4RnZis9zVzOjw",
+    "plus_code": {
+      "compound_code": "4V8R+FG Bucaramanga, Santander",
+      "global_code": "67V84V8R+FG"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJr1TZNX0_aI4RnZis9zVzOjw",
+    "types": [
+      "bar",
+      "night_club",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 223
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 50 #27A-82, Sotomayor, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1147744,
+        "lng": -73.113877
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.116161129892722,
+          "lng": -73.11250592010728
+        },
+        "southwest": {
+          "lat": 7.113461470107278,
+          "lng": -73.11520557989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Gaia Bar Restaurant Karaoke",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113913878783875890731\">Luis Rodrigo Mendieta N</a>"
+        ],
+        "photo_reference": "ATKogpeoxIq13H3681M8hkXtWrq-puesDwRCJtNzPPHj02imwD85L3Tenj6oK5V6ndFlmSgEq8NrOY_uPjwtxanjhlqY_s_DoZ1Hx81wOdLayu1RkDFky_hstjatEuOEt9liV7rtPAZzqJKyZTCrFDI9GgSRVAWBqeOm6zSb9d7uLCSRQkAHC8mVJnqLPxORiO_8mbpwa8MugdAuDXdVqAK4RQbATDdpPQGlNdoBKnexCuYCcvIonw__Fh3hCKZvPTPLhxASj9GsRCkNOhFYktXI0xw-yM_GdsBbFlxSUB5z7mMdq8nAnD5dNemNooJyB308-b7-zQmXEySvcoe_Mnbn0exdjLLPLOSZkr_Jm__U521oDJIamPzwS5JTMw2C8n7VKQh-YaZEJS0Xk0-dK1F_dTAV_if-DpOWJB_ufEuLtuy6ftLZ8lv17UD_mIm_A4akVpWZKwDBH5i1Jv2gc2nvXhQcXxWGH6zSO4wFkXuNFeQ8beFW_CjXKHsJAdWtd_xY0L0mbMELF-AV6KStFU-fOKt7L91e8JdYqlp3pu71KsifE2SRwxPHZC4hN9Uc5IPOqO78bA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJZZmSzt0_aI4ReqhlrD44HXc",
+    "plus_code": {
+      "compound_code": "4V7P+WC Bucaramanga, Santander",
+      "global_code": "67V84V7P+WC"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJZZmSzt0_aI4ReqhlrD44HXc",
+    "types": [
+      "bar",
+      "night_club",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 592
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35 #48-55, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1162978,
+        "lng": -73.10970549999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117640229892721,
+          "lng": -73.10840657010728
+        },
+        "southwest": {
+          "lat": 7.114940570107277,
+          "lng": -73.11110622989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Lupita Club",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 666,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104546674432299111244\">Fabian Barrera</a>"
+        ],
+        "photo_reference": "ATKogpdzyqf9TXDIvhNr_Bq3Nd1ljiQw5awsLP2VztiCB-yXNxnGpTrTV-xSxAC0ASv0zR5rw0R0MucdIIetUT6DaQuNmOJWc7cPEox-eZbSsCdESXG5i7Yf3M3oNshIW1o94GxD4IvbXKlGRi9uE0t7qi6WKHLKarL-sQIma5izsTfefjC0JvszVa_UBz4b1wQyT_qagIaFfKcY6KJS44NHF5MRqgKbqtBkGX3uLOPhUnTsOUIXmJ_cltKMHaMjfKi2Qnz4PnOqcAR_ib7xrxOKsWty5Xu323HXqzgln6fvB8U_JNdwlHWx_tYH1galYa9weN0pCs2GeodCwsu17wVFyjzU3XHlSNH9Lov54Y8o_m6z_MLz2d3w-csh0FWu91Es2MPe39On4u5g1Q9anY1-LgC0dCqXKyUn45aNi_z7vk-FDWKoyNuaH_vnQNxIN7S7boiIwBI7_jExniLQ6KTKKtIUMPDuKvOmjupvBNaRwC5LYZ9UJxhAW4WikddlFG6xzP8EG4-vO0gi9q37Dc2hnzGFN-zFieyQbctAb212Ggoj8uUCdOIKN2u88hSnNSXP1y7lJqAh",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJV5gLx-A_aI4RBYr_qSA4OeU",
+    "plus_code": {
+      "compound_code": "4V8R+G4 Bucaramanga, Santander",
+      "global_code": "67V84V8R+G4"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJV5gLx-A_aI4RBYr_qSA4OeU",
+    "types": [
+      "bar",
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 901
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 33 #32-08, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.125930599999999,
+        "lng": -73.11370219999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.127354729892721,
+          "lng": -73.11239197010728
+        },
+        "southwest": {
+          "lat": 7.124655070107277,
+          "lng": -73.11509162989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "El Manicomio",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102599498143447105675\">Diego Mauricio Sanchez Tellez</a>"
+        ],
+        "photo_reference": "ATKogpd9zAjk6eFQL0O41gnVDFrQUpkxsIG9zGbEUCbZjSPm-y6zu4INJ0U1nhzSk0RKEeii-_BB57NvdXCJWJHpNHSOazUvnS4GZ4CdQDrgMmgbE1356_SZEYGH7NsVtLOSgvfLLfMNqMmmFXLarQ4POrTxaHkFxktpd38ttx8jKJw3f4CB9fld_nU0rmlq88NtuC909mJDTopOjYom5A2NMQHO-w1apJOL19xLwfcxI1lSUHx-41vBEYM2R1ZCeRMgN0KFSKzJ1CaT0nUskA05kW-Ix3wOfY9r4d04TM1TyfR4LWubCLZACiOU1cIb4-Wf1F5cuXWW7J0P4eP7CAnC233w8MwIA8wsd63kaSLEcws77PSa_NVActzRp0sVHl94IOnPoUXqAzAfHYMaIuPITmaFLKB4yxHp3j09wMbYWXgYCmCLMu_WgTIZtNBbhmG8ZL-VEjSF39_aREe-_lG5P_4QZq_M1C_aM9uM4OE0xF58KncdMqDy05StN611DrZ-1lFO1NeWfeVDP6UozvNqZeFCgsILrR8ZBjjQ42My73Wwd3bq21lhiDTN8Lsa_QzGL9qQOM_Q",
+        "width": 780
+      }
+    ],
+    "place_id": "ChIJb48rLWcVaI4RFc_IcA2_1Fo",
+    "plus_code": {
+      "compound_code": "4VGP+9G Bucaramanga, Santander",
+      "global_code": "67V84VGP+9G"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJb48rLWcVaI4RFc_IcA2_1Fo",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 622
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 31 #33-25, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.125401699999999,
+        "lng": -73.1141987
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.12673092989272,
+          "lng": -73.11287957010728
+        },
+        "southwest": {
+          "lat": 7.124031270107277,
+          "lng": -73.11557922989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Nightclub New York",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105981811466517951687\">Wilson Cifuentes</a>"
+        ],
+        "photo_reference": "ATKogpfslVobyFzkdLzcQvZHXRyomeoZT2GjV4qTnPA_wcEzR5MuscddEZEY9ccmdjIPqFsfNil3_j4vk59BH7c9hkBZppgRfEt8-FvTfpa6tcnOoI8jzv4U4QTkqKGRGCC0D6gN0D-8rWmGePds5Nb3m4uaxGGzbRa-8HsxqsB3scPu08RqNqjl0FNQrq-Qv34eqIPvp8_u0ERK6sdcvLk2Dj8e_MIjQ_zMDkQBo9YH78VrQlc0-ROaXlSkn82-SvR7JTTf0dGN21hNufsM0kF10RJEICLqYd9rNaXHpoSanMc6jgFEMtiWROJR5dG_IlUSxPpV6dDsuZ1djD5l77g36h0kB6HmtoKHTehMUZ6nYpYDrXIKazBYaoq1EV_wUJyg9BsDhwq0bxHO64Xc6SFf2X3Fvz0K82Dgk5CTb3e4cN7M9G0S7zcqgZjV7_jDk9F8ESV1RNqaSLnJs4ptQWJFXoJEllsm38I1foOxKnzJLI_CcPmPGHVyP_XU9d6XmE1HyxDwa2PE26XfGkHpcknetqig0yt_ES5VRGtdYlHrebmvJGaYEaw61SjcgPpgMN-0adV7I4TU",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJ3U_a12AVaI4RFiziEHFadm4",
+    "plus_code": {
+      "compound_code": "4VGP+58 Bucaramanga, Santander",
+      "global_code": "67V84VGP+58"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJ3U_a12AVaI4RFiziEHFadm4",
+    "types": [
+      "bar",
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 186
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Puerta Del Sol, Cl. 64 #27-59, La Victoria, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1052072,
+        "lng": -73.11303869999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.106399179892722,
+          "lng": -73.11172547010727
+        },
+        "southwest": {
+          "lat": 7.103699520107278,
+          "lng": -73.11442512989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "LA CHISMOSA BUCARAMANGA",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113909419598201515910\">Oscar Pabon</a>"
+        ],
+        "photo_reference": "ATKogpcdkw84nSxwcjQff24U0jR34-zk9Y8mIA6wRW90OFTli4CYLiP1gqe9OsUkZN65yfeYjFja7JVD9kwo1OgouBFhONIc_IYjKY92jUPP1AP9ICoFUh4ShNp2-uNbXkkpS3XEaEPDyQFVygMokhGmblPQabgKH4Z9YA9gMWjit6_hRg-uRafR8UbbnR_KpbjKJ9u9A9LPWQoHcgaVinJLrDYtRPey-uzeFi9fSzAI179OC8_HUi0z6bPZ1muaMGZEzSfm1AnVPaf5mkSLOSOVXNecrWkpezCPUP0buv8n0as4YAMHazJ8k-Y3tHLq4DpSwtXaMH_oehkmzF4KacCIvjf8vf0tdPKtcWZeBJZ01OlE25uNj8CO3DM4DBFHSPx_2wrtroqBjzaCOtawWjUPM-57Oh520OUj5j6H0LQnGtOPoTO5af_UytKilj82fZvWH3gvTLR6blkXA7o8BcAdZAZYAe8f-nZ-zwKW6OOiVXaGh2_aPDcoLw-oZFdNCowmR6uP-HTYF8g83X7apMyfAnWR3Lt4--LkyAjWqwf9gAa2bBuVo8WwJxZ_0G8-I48oxF8QTItq",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJe8KzHBk_aI4R3hxC1pmf-gA",
+    "plus_code": {
+      "compound_code": "4V4P+3Q Bucaramanga, Santander",
+      "global_code": "67V84V4P+3Q"
+    },
+    "rating": 4.3,
+    "reference": "ChIJe8KzHBk_aI4R3hxC1pmf-gA",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 464
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 15 #37-45, Bolívar, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.116897,
+        "lng": -73.1258711
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.118235129892721,
+          "lng": -73.12455367010728
+        },
+        "southwest": {
+          "lat": 7.115535470107277,
+          "lng": -73.12725332989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "La Barra Karaoke-Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 581,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101323975103688137761\">David Alejandro Vargas Rico</a>"
+        ],
+        "photo_reference": "ATKogpdZg_Eh72Y0VvNJet4ANMeIuwXI8IS_MeQxN_ZAsw_HcqXx0I4jrEnEqJDBoRXd-DCosThjlqbJ6skVuwugH-GdX5Km5YUuGkxTOAsKLlqQ7Qg0WKjDXhP6XgUU5yxf6nZpouW3pSws2xs4dDotTagx08pKWv3Bleds1QBbX-lUo_2qDugrdFtZT7yDzSY2OQW-iknlFi54b5fBcJN4RiJp6FsPWanRBZocB6NIPCwx_NGlMM18F48xX1zn60nAhsc00uuvHGacaJ7kH3p4buDtm9lu7mUhRgxckVKmUDI60O5v7cgkWSLX_fqQ7oq-PTLx9Q6RVbbyEjGEQd6ED5aKCLGhRVCb2x7BNvOhxL0WxuIUUEnNgi33yFGr4xq7psWUDPP563yFtfPqZn6FbXBpNwjo1WOCzafU4Kc7l335gMiB94wFlKvUunAMDPvZDX8Vw1q3ga1No_gQpEICyXPwXoSrNZe9AZ1UlC136JF-BrBiRzqcaJhYS_a4Gtxi4Q36-vBqcMNtsBHkmqASr9gQ6LjyGAC3VO-Si2tlKl2LkijBF4MRLPanB8AjjTjSml-cEaXg",
+        "width": 1032
+      }
+    ],
+    "place_id": "ChIJAYBZKuc_aI4RLMP7VtBwPfQ",
+    "plus_code": {
+      "compound_code": "4V8F+QJ Bucaramanga, Santander",
+      "global_code": "67V84V8F+QJ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJAYBZKuc_aI4RLMP7VtBwPfQ",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 31
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra 16 #41-50, Bolívar, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1160108,
+        "lng": -73.1248466
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117376679892722,
+          "lng": -73.12345157010726
+        },
+        "southwest": {
+          "lat": 7.114677020107278,
+          "lng": -73.12615122989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Bar Punto de encuentro",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 408,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104795309846584304813\">Bar Punto de encuentro</a>"
+        ],
+        "photo_reference": "ATKogpf8J7McsGsntiqFx5_wn3A311Tv3J_NeyxPNNEH8xev0zEeq_7KMwUr7Q4kDFT5ilvsrpuPAlJcOo5HDsspCRqngBMVwrDFb_UdkZ6jFvKz6gnWQqyvJbiTDyf4HEgFcm76qXCds1UyCO7xkb10ov_3w_n4xBNBSkU3_W6FN7uddY3_MHfXLwj4WPSIRXbON6P9ls02yVv69cRoe2EvZSUHwhrb5sY9hE72IpqjjfP-FFq8cSUCIu-ZewfUwddnWI3DYyJQsKRcMufPJ6ZTpZW2dThq5leKHq1v1VwFJgs6M1gR-sE",
+        "width": 612
+      }
+    ],
+    "place_id": "ChIJozNUO2c_aI4RYzNKOZ1Ql_8",
+    "plus_code": {
+      "compound_code": "4V8G+C3 Bucaramanga, Santander",
+      "global_code": "67V84V8G+C3"
+    },
+    "rating": 4.3,
+    "reference": "ChIJozNUO2c_aI4RYzNKOZ1Ql_8",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 38
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35 #48-106 Piso 2, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1156847,
+        "lng": -73.1098098
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.11704807989272,
+          "lng": -73.10838572010728
+        },
+        "southwest": {
+          "lat": 7.114348420107277,
+          "lng": -73.11108537989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "DRINKEN BGA",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 666,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104546674432299111244\">Fabian Barrera</a>"
+        ],
+        "photo_reference": "ATKogpeJ6JZYQgPWmprD1qM6lCw1eZwJe1t3XvW9836pZ23EIWGTeDg2W3Pi_15u454e2RP3OB9A5nxj9BZ8XehedmEYck81z-mhbS9vYcjRUK38eOWoEWAkvAAWnnZ4kkufODVtXgPL1mEjxgE7tCqjep1WscfM_5w_YUvAoiywojB9pvsTcOzqaNMYybFL8D8wxkvkW-IZyf3f7uSl8HMLKcj2AJzak6ZtplexakoxFezJABVPgRcE4zwb2fser1uTadr5dw9TQw72Xas50hSRA7onqNkL6fxH9vfSNfp8332R-2NiLZ19orxtGcg2gwHLK3r8Js9P44j4K15hHNxfQ0vbKNRMtRHt4G9cN1lEkKtdNpMWHMwoxxbzbVT-AMIt3ihoS4f30BZreCl9YFYdgtla3C1Iw4UZVXfPn8Qs2-kD3Rx9qP4-feHLiIR9gfV00F401e_EHgvvLDUhc_n9iyfbaoYqsWXXGUlNR8k86elBNyezKVRHCJLJXb_04VpIAt8xquAzqs9bPsQxAa7gp47VD0TFqfWO9f-byoJWaXSkZ9NK6xCJyS5PepZQvFw-soWnyZBgTUaLsw",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJm6K8HeU_aI4R-fmKb1I-r18",
+    "plus_code": {
+      "compound_code": "4V8R+73 Bucaramanga, Santander",
+      "global_code": "67V84V8R+73"
+    },
+    "rating": 3.9,
+    "reference": "ChIJm6K8HeU_aI4R-fmKb1I-r18",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 126
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 33 #32-98, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1263799,
+        "lng": -73.11298359999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.127799579892721,
+          "lng": -73.11165667010728
+        },
+        "southwest": {
+          "lat": 7.125099920107277,
+          "lng": -73.11435632989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Salsa & Bembé",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112656040975663571111\">Salsa &amp; Bembé</a>"
+        ],
+        "photo_reference": "ATKogpcw-BQLcmj1Ysb0rysrAQiC7kICEF3D85u2GfCE5padhao8wKHuYpNZMIxrNEkcEVdyBCIJGeOFeX2ZvZVPfODhqgeFkUJO1oKVHsGT_5mxhLXgIO-EYFPGevwEbgyT09J2LxYwg9Tk1AgQdf9HTR328iRriDviOQtKXc2YWANl8fSinIQy7g6ROiB1j8tqsxh3wICZtHlnKscl0ihciC8CfOW8e5YHfTeqzgZvbyReP-s6eI45GxV6GQb86fSeXcQ01lHTC5sPU6BzWtko-OhMG12eUtwQ7DHeJDyDgYhws2nOydA",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJUVurN2cVaI4RfDSvNGHM8rk",
+    "plus_code": {
+      "compound_code": "4VGP+HR Bucaramanga, Santander",
+      "global_code": "67V84VGP+HR"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJUVurN2cVaI4RfDSvNGHM8rk",
+    "types": [
+      "bar",
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 45
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 34 #51-50, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.114185099999999,
+        "lng": -73.1100792
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.115541029892722,
+          "lng": -73.10869187010728
+        },
+        "southwest": {
+          "lat": 7.112841370107278,
+          "lng": -73.11139152989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Perseo Rock and Pop",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100561467542423119110\">Juan Esteban Campillo</a>"
+        ],
+        "photo_reference": "ATKogpeV_U7ACd4TO5V8LQMqKa6O2g0QZhi9XESknL-2WjdRSCeeXEv2lc1BDUFRvXrzOZb_mwYC2WtHe6HnMvnhuIKRNcjKByrvXy8othdWNaOMLoNCDuiP8Yi0c_Cw-bDTE7OC6ea7yOCqugTtUQp9w-Wr-bH6HRMCZ7C4K1ewMZUqIIJLbCGT7vQ-XD2pcC8tj8KXZZ36bY9doyoVziCBN8MuTosbonWyGNKShPkmwkJVnMCbBfrXZlyEkXZlAz8byWVuLPi0DRBHUKtVkLFmyJ4h-MNjBzEsM53A9tbBnroPo1z1bAjhdaTt1JWd8Mj0jEdk8djbh8LkQ3QgQJPANnWNXecqKuNRxmN2J9T2a5R9yEiZ5L-JqKUMkaki7Zu_NdQLZJI4iYS7-bv5hYYe6mprfriKVaJFd3-GXacOAHeu08BWNOy3rt2-t6HSYvd9s_DxBEYVTGNN6_1JkWWC4LMDlRyCIYSkPXeF9sRjP3RxBIUVT4y8qN2TYpc7xs_tjlnwhdRYBIF0o2B71fa9Z2jL1ZaxmCbw7dIrSOuy0yvgFKdw4cKh3-VAf0A2vOevKYlj1qqR",
+        "width": 2252
+      }
+    ],
+    "place_id": "ChIJJep407M_aI4RNQqx5Cl4He0",
+    "plus_code": {
+      "compound_code": "4V7Q+MX Bucaramanga, Santander",
+      "global_code": "67V84V7Q+MX"
+    },
+    "rating": 4.5,
+    "reference": "ChIJJep407M_aI4RNQqx5Cl4He0",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 43
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra 17 #59-20, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.105455399999999,
+        "lng": -73.1189547
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.106828879892721,
+          "lng": -73.11756017010728
+        },
+        "southwest": {
+          "lat": 7.104129220107278,
+          "lng": -73.12025982989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "LUX Bar Bolirana",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4344,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109657220608649162260\">LUX Bar Bolirana</a>"
+        ],
+        "photo_reference": "ATKogpdmpitIPkIy4OtRwj4WHuolWNNInJGD-VzriLa82YaZejTsYBIOCwsY6s2cyB3IIRdIdacaDw8bxRMcOdJhUSCJPLY2MGigDdWBIrMeXRLIKDL35vStB0NcT7fu_VmqNiX2t6w_t9zSML4APGqxeOYMKSnbDqiSZRE4vGhan92ojwCZ-ENR8Qao0vnBWcZ6VWwtnpOcGrtn57OhZSxLpoIDGMtpmYEkt1sObSoXQjEtl516IhotcBueRsF2J3l8_fg-5q5cXkDHcRw-X5Sd4wL3CbbwbsjcSsicp8vRgKr8tHtts2A",
+        "width": 5792
+      }
+    ],
+    "place_id": "ChIJJ1duVTc_aI4Rkbj1NFaGh9g",
+    "plus_code": {
+      "compound_code": "4V4J+5C Bucaramanga, Santander",
+      "global_code": "67V84V4J+5C"
+    },
+    "rating": 5,
+    "reference": "ChIJJ1duVTc_aI4Rkbj1NFaGh9g",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 46
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 33 #33-30, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1261796,
+        "lng": -73.1129437
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.127545279892724,
+          "lng": -73.11151362010729
+        },
+        "southwest": {
+          "lat": 7.12484562010728,
+          "lng": -73.11421327989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Déjà Vu Bucaramanga",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 504,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115872732843407477042\">Déjà Vu Bucaramanga</a>"
+        ],
+        "photo_reference": "ATKogpfHAb_xgVAIRGJFBwTcVoMhkQOrLhq5bSBG98ii21SKJY3nRd2TNkIGK91wX3qGvbniwbfvzgWLZwhxNZ2MwkSaYD2oUMLjjF4AzG0BsZ8-jtanEGp7sZnI6flIOzizM2EKBs3PlTr8gu3F1nA8ATXlexHHlZxPrAO5mYaUEI9PRxzgk49sdqBuaEWpDHlpK2GMGS9zQ3cwNshU6U7c9ffadYU2_RNnAFHYcBQ1dVML9_AI0mjBGqw-p68vanM-L6jz1R8PcXotQ0zPjt-XR9NLYVxqRNZzlCP8CRgNcMHDn5itnZA",
+        "width": 739
+      }
+    ],
+    "place_id": "ChIJc9raPmcVaI4RAjzV98gS8Lc",
+    "plus_code": {
+      "compound_code": "4VGP+FR Bucaramanga, Santander",
+      "global_code": "67V84VGP+FR"
+    },
+    "rating": 3.9,
+    "reference": "ChIJc9raPmcVaI4RAjzV98gS8Lc",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 71
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 3 #63-31, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.100197100000001,
+        "lng": -73.126176
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.101523779892722,
+          "lng": -73.12486022010727
+        },
+        "southwest": {
+          "lat": 7.098824120107278,
+          "lng": -73.12755987989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Point Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101278700066969639415\">Omar Morales Montañez</a>"
+        ],
+        "photo_reference": "ATKogpepHtRrhuBDQH1ftMYojibsvbvEm2lip2TqhbP-w2MGR_ZP24wEr1WejPDheqU84uH3S9a4L4-yArKqg4gOnGgpw8ZaWtt377aIMZg742iq5RybisNYdWVYOvxtF3HMpdHBbEFYKstKDIGcg9AJe5Ve2rSyxwfHuOiilFhT-H-lZcLzjomh7XvaCXjg-buRgp34VA2uXTtzjolKU2OYojidAHTzFEZZDk064Stzlo-AGyVRpFzwzQLi0Nrxsr4jsb9qxX_ULGSiEx4QhbGsfugV1Ppb7TwGDHwSUHfVNNldFQg-TvDLRZyXASs6W5wM3UAtwAlgPlBRfWNeXMXYQTswB1vzIUUDgQyaacBUhW7i6YoaHWoHWcvx_h-qwDusIz8Hd_JRczT3YM5h5lM8pbyGayv9lKfSOWkNWAeKDMUxeO2v7F2BKEgPWk95mh9m58_tYsgxvR5Qho4WM1HdETQ-5eI7YvGSLoFckOeWV5moslJtO2D5ShZLqkOW2Le5IEXU83xNVojUYWMQtn4NvuyYdrCWGUEPDBQvSj9QYQdv1k8YSYCmYBoOtWvtl5jGyfmnaPkODVTftA",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJnathK7Y_aI4RTlUfpNH0HUw",
+    "plus_code": {
+      "compound_code": "4V2F+3G Bucaramanga, Santander",
+      "global_code": "67V84V2F+3G"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJnathK7Y_aI4RTlUfpNH0HUw",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 61
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "a 56-107, Cra. 17C #56-15, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1080431,
+        "lng": -73.1177198
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.109379629892721,
+          "lng": -73.11640682010726
+        },
+        "southwest": {
+          "lat": 7.106679970107277,
+          "lng": -73.11910647989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Sport Bar 56",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2604,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116569084264209122270\">francisco javier martinez aranza</a>"
+        ],
+        "photo_reference": "ATKogpdU_Ho4Z4EfFxd6bIKAv31SjVcqrylBgk9ylanaKK6DhtQbuTJ84TahaGyZMKfS3geKsLat2A9Kz0jKVwpHDNe9FnAWzv324lUBR9mYZg1gQUw88-9oQuJm0BCr-h-sj8tstK2Td50Xh3uAqHWEqMOHOfE2vjp5mwsHA_NxAXggWt_00H4xxFE3xWqTPiNzZT9K96ZP3kAXbPaytWUjMnaoThQ9x0hj5pbxsAWrMb5jukJ-MLkLB5ucFGRymDBQiEGMjUtDSUItqxQowAX9kzsZSNbFiDe00uQ1kORzhNlFAdpMeHYMU6V348ai9KToCsTHbP2u1h1Z3Z_bgs_KR8e_Yvc_fvhvXrcW1iwWx7A8iRdG42vFpWGgVk6RLTMOWK6DAx7IoFEIysXrn9YayaSL4-5sC2R7R_fSeg8fuOdyliiwfGCDmR54oz9N2Yg6Ylzp4Z3F92iofqY6dKE0RvPAgRd3HgwkAWDBCk8hGrGQCz0iAQ7WdlHyelqV3RhevP7L0VsoUqLuWv080dog3yoZ7pv2bxmo5OqvbKVmpnU7WkZXVbltTrYMOgOHSC7Er4TM6eMWKEyMJw",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJ_f9vh8Q_aI4RoAK1HO8TH5c",
+    "plus_code": {
+      "compound_code": "4V5J+6W Bucaramanga, Santander",
+      "global_code": "67V84V5J+6W"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ_f9vh8Q_aI4RoAK1HO8TH5c",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 97
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Ak 27 #14-70, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.133925899999999,
+        "lng": -73.1203021
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.135276229892723,
+          "lng": -73.11893847010728
+        },
+        "southwest": {
+          "lat": 7.132576570107279,
+          "lng": -73.12163812989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "El Oasis Disco Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112594345822608510468\">El Oasis Disco Bar</a>"
+        ],
+        "photo_reference": "ATKogpfzyvwJcA6CoWFYH8pVXiYff7FUEDOVI25iRxEaLjpwHO7D5jrw2ze9Gayspbx0soVmM6QEEVsmgvJEA-R4nPs3vvbynJcBQJG5HNCCP4BZskOT-pn8Cr3ZRPpZTbXaAE8Fj6HcgC1rTtPH8N8cy4MLmsvXe9-RsQIp0DSsRB88Kc8ZFMBLXFLUDgMGBIFqWcbL0PcOzhcf0vbg6erhbeUci9wy7oEGd4EjGIroYPd9GSNl0D8dnRvJpB54tg_MpXQzznDjSpZtjvD8jz68j2ZaB6CK5pX5Tmcp7qLMspTe13TEgmg",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJ1yLmqm8VaI4Rcb1SNvcfy4U",
+    "plus_code": {
+      "compound_code": "4VMH+HV Bucaramanga, Santander",
+      "global_code": "67V84VMH+HV"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJ1yLmqm8VaI4Rcb1SNvcfy4U",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 209
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 17C #56-48, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1077023,
+        "lng": -73.1177426
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.109063279892721,
+          "lng": -73.11636507010728
+        },
+        "southwest": {
+          "lat": 7.106363620107278,
+          "lng": -73.11906472989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "PINESAA CAFE -BAR",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113232552646695763885\">Fredy Acevedo</a>"
+        ],
+        "photo_reference": "ATKogpdaDFvgSfWPuir62Nsew6rE7o0tCgiXuFqA4R7O0L_dmN7vIUgACstLHqQSQmZk7H3zxJzI8vYSdekOlXKzO0Zj8A79mYX7cf-ZMmuQQq9YFKOkkgNz0Q7QvpSJrfVplgd0l8PE1UQM_3NAfwqhn-jvuki4pm_tMK8Z9MLEnUFdVBwk3Fy1uptJ7t4pXXbB3A4B3w2f7r1omijOWSiOFQU3n8vkjeJQOTKQsH0Av-ZzjfgK9Hzmd1Ftqm9CdmcD9KXi1zICuryQ6wmJHY5-e7bBL79rnwPuwzC6xu7rtYDPqJa3LcDzsgwdHkTEIW8OH2n_fhtHxpeh2ui-pU4HPlHTyms2Sq5CgWoZE0EgOfeOne4si1U6m3nFZybK49tN39K7VYNAKx3koUdC2kJvxaBfEdGasx-yPrkGahGChkBmLpNdvGmf1ZzEyH16LxNeGqr7q4Xlb0K1x1DsYBF1HTJ9Wx1KDXW9qBQtP0CBg4WNNVxfNy4Bh4G3fl0YIl6cLWxlG8b1vG17ZwKyyO2Fl_Y_2ncCmt9J63ckvGxyvRq1wcwwYnAL8N7o9z6xuyq6kMft_qra",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJR2ZUal4_aI4R25LpIzt1vZc",
+    "plus_code": {
+      "compound_code": "4V5J+3W Bucaramanga, Santander",
+      "global_code": "67V84V5J+3W"
+    },
+    "rating": 4.7,
+    "reference": "ChIJR2ZUal4_aI4R25LpIzt1vZc",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 38
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 33 #34-34, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1249482,
+        "lng": -73.1126985
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.126309729892721,
+          "lng": -73.11128417010728
+        },
+        "southwest": {
+          "lat": 7.123610070107278,
+          "lng": -73.11398382989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Video Bar Los Años Maravillosos",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2976,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102620416611143227011\">Video Bar Los Años Maravillosos</a>"
+        ],
+        "photo_reference": "ATKogpeF_MTmf9oJv2pkx2txr3tqkYvfNodEdzkFdtQaADa0Vu9AAJCcGJ4sRRE7hrpZWaEWYVVy2Qj4k1Cjk2_Iu3Sa_gLbfCJtRXP2SqXxv0y2p8RLRJNn968lwyjX94k8tfErXuOtnxBrPV3mPbqd78TRMECeBapTcmqFzCSzrCSg-SC0O9d-SupaAh6A4OzvB3tnX4wsHVg2beFnBlqTu3rnf0XVMWrVsPv0lSM1cjr5CtYqJ20rzwLKJNmKVANHaZc_7mRLlK8oIHMmh-qV4--sMl0y5ns_E_doIc2oF5pBv61FiH4",
+        "width": 3968
+      }
+    ],
+    "place_id": "ChIJPbfWvmAVaI4RFfHi0MbmKQY",
+    "plus_code": {
+      "compound_code": "4VFP+XW Bucaramanga, Santander",
+      "global_code": "67V84VFP+XW"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJPbfWvmAVaI4RFfHi0MbmKQY",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 101
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 34 #48-16, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1164901,
+        "lng": -73.1105074
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117848579892722,
+          "lng": -73.10910682010729
+        },
+        "southwest": {
+          "lat": 7.115148920107278,
+          "lng": -73.11180647989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "La Cervecería",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112253598703330408047\">MARIA CLAUDIA VILLARREAL ARDILA</a>"
+        ],
+        "photo_reference": "ATKogpdM-cdH6wz9OLdDnKvd-ae-O5YR8oWJCzogevE0lKunApxrS-HuJVjKZ2cs3C1V9ILlZTGQ4DBjzEFD5EF4Oy8SqlpKb3fWNR4vipXooq1KEWlYY5SKOgH-oEtQolHYaumdrR5BpL8db1b6kiDiIbrGeXjAyMbPsjzl_W3FrutIOFzMpSAhMbiyoCB7sm0Rnhsx2DNfdLfuouif23HinePJKfPsEP5JOgq8j1M70bFgsNasXXRZk9J8KvCe02ONM_vtSQ4k3S835jjQOMDpNdB-NWl-hvpaO0Bv87aj63r82XC3hKkr_clAZpPaBPlYs00ZhuD39wQtNoCzp_yJCZ50oiJ2M3Z4kvks_RDVmZoMBD4DG9WKegqc3AUFqbioH2i9F80ImjidUgOznqsyezKxrPdKjP0Tdl-BmdmZjF5a6WAxETs4yrQXGAdGOLYzmyaBCayjRlqQwvWo0pYn0Ws0c25Czr0Ga3iqLvFeW5g4JtmFfoeRtnQOA-5yOdYGt-IlYA0mllRTDej70XUYU9kkkZLex3DgSIaz30cjL0m9W6BfZqESxhAXFGZErX7tFMgrSs-e",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJkXWGvOA_aI4RNdkqjUtpXO8",
+    "plus_code": {
+      "compound_code": "4V8Q+HQ Bucaramanga, Santander",
+      "global_code": "67V84V8Q+HQ"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJkXWGvOA_aI4RNdkqjUtpXO8",
+    "types": [
+      "bar",
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 674
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl 56 #21-49, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.108942,
+        "lng": -73.1159935
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.110286229892723,
+          "lng": -73.11464577010727
+        },
+        "southwest": {
+          "lat": 7.107586570107279,
+          "lng": -73.11734542989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Selvática cocina brutal",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3060,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114196555675583385528\">Clara Ximena Cantor Rodríguez</a>"
+        ],
+        "photo_reference": "ATKogpcA0yk9gz-lxXjt5mtObrmBsnVtYwi0y7WxL_EIqodb8FReKFnp_TdPLJnsf0cqUMOu8rxcW3GyQH8mk_YB6ZwtTVqVr0uKQovtGMsBT9VC-z5SBN0cAH8Xs9scL1etRzjJ0oikgph6LQPpk9qDl34hDuAfyRTjUvH67C1xmAeYEnAWzmb5_gKc_kWhCS3_SQF_o2dac5EfvoSVrKOycAsIybWdCLRvxGmjRiKp5HceNEpRWy9qpj8AIg7YMBBMkbtU6UlxOkt3CPzIy0Qym7W1SlFjLHOPiNyPBZ83LhTX2mc_z38bWq00jZl5KNV6nnHE4J1c9smy2jcZMbadOK667MRePl3MqlxCJbO3m1OaSlbPmqlDckmluginpij9jF-ntI2ip5OdWRXyVQacmwbeBtUjCtyhFdemNB8X2YYlBOO69FQZVhDyx0UBjkgzN_IaFUfUC2tgWAlj5vcZH17G5OOo9zcp54xsmKzrW04qhdFKFzS8HXsbAxNpw_VvTye6POaAKLl30s5nIsmSUrCpeeF_5gd-LpD0To2Pgx9_EK1QipXUqeVnx-c_U9C6E_xQQm7fftEUaA",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJiSRiYNs_aI4RoXTfmm6JGqg",
+    "plus_code": {
+      "compound_code": "4V5M+HH Bucaramanga, Santander",
+      "global_code": "67V84V5M+HH"
+    },
+    "rating": 4.5,
+    "reference": "ChIJiSRiYNs_aI4RoXTfmm6JGqg",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 340
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 34 #48 - 09, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1165068,
+        "lng": -73.10974019999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117848879892721,
+          "lng": -73.10843962010726
+        },
+        "southwest": {
+          "lat": 7.115149220107277,
+          "lng": -73.11113927989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "La Cava",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104280213095099832662\">Wuilfret Arpidio Sanchez Ramirez</a>"
+        ],
+        "photo_reference": "ATKogpdE7gr5ec6_GygrIRUiOsfZyKLazFTkh9AJbkAVYCLh8lAuNyAxgrdgN0VgO-Yz5iZAYhl5fuSxByTmJV6qAEkKlqW0uGjSY7gHPnEBqlGy_ls3ejCbYnplXvVXYIiKVG7snULNbVNMuNOGPYr6W6q0zxAxv9x2OvtQq4yyxs4Lay_08y86GCadi0ekpWiJvGsbuAmbi1wiB0JJ7RkO4hmvRhuTTm8G1ZYf2RGdASJk_-EZWT6rG5OOpIt9O2l22GI-0W8Yyh4C9IWYAAsU4MlQk_IkGhmWT8bLv6juz62Fa9gGaFd6x0Hlo8Xp-S8zXsDFy3JkEFnI6G4hQwp2juDeAGNuhBi22hFlwaNlxWon5Il27a3U0XkK4GquNu-6IDTgcpOZX5w0IBI3OtYZx_yBfhPQiCWBxxFSPTxuVV0cIQ42DwGnxyh4JS22PR8TGdG2EfA47DGFVGOknmJrBI-o4WErlNzRhRPq7UZvBo4-g_zHhRAt_d4q-MIlXd2fra1bxn24Ogz_qbvdO59xOJe5p6SsxbSZObwauXutc7xwEVS2dCa5HShsHJLKMUDhQm30Vr8E",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJby1TvOA_aI4R1UJHy8eV6hc",
+    "plus_code": {
+      "compound_code": "4V8R+J3 Bucaramanga, Santander",
+      "global_code": "67V84V8R+J3"
+    },
+    "rating": 4.4,
+    "reference": "ChIJby1TvOA_aI4R1UJHy8eV6hc",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 48
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 12 #27-53, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.136328199999999,
+        "lng": -73.1197973
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.137655729892722,
+          "lng": -73.11844812010729
+        },
+        "southwest": {
+          "lat": 7.134956070107278,
+          "lng": -73.12114777989274
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Catalina la O",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107677405150465898590\">Catalina la O</a>"
+        ],
+        "photo_reference": "ATKogpdNK-eOg65h4KnFbiDJA2Po_O-VssifYvsIBf4YnYcq7L0P7ubYsQEnFE3wnrPIpA35j3oLwLCYHbAcndMp-qA7IozS-etQilVVB8XryLy16gdolPH8g7YvRaIti4JaOPovgcLJ5qiXPToGJJRGx3rTPevL9bHagse-PBic7sc_qv5SYWltgh2L32JX6RW8UxbiRI8sib0LzEn223JMDpaQf3tX-cYMidP7re5YDyGM3OgZmeAFh-6RYEgrD55FYEiOFv3NonyNtfGwrpp1ZBVMJpVMEdGVwS-RKRWqhdDAYGf4rEI",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJY6NC0T0VaI4RkWMxNFNs85A",
+    "plus_code": {
+      "compound_code": "4VPJ+G3 Bucaramanga, Santander",
+      "global_code": "67V84VPJ+G3"
+    },
+    "rating": 4.9,
+    "reference": "ChIJY6NC0T0VaI4RkWMxNFNs85A",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 62
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 34 #51-95, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1136579,
+        "lng": -73.10975189999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.114994179892721,
+          "lng": -73.10848297010727
+        },
+        "southwest": {
+          "lat": 7.112294520107278,
+          "lng": -73.11118262989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Abychuela Gastrobar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100946465821512520188\">Camilo Contreras Ortiz</a>"
+        ],
+        "photo_reference": "ATKogpfcD8RMPlFwUcsqc6Xphfk43C8idx4ewU0zKWUNXUU5Z8N7GC46iv71HwiUyTfxG42gDikA8Bq6LRjxokEL3P6EtzNX8VtlQr695Mv-tg_J-SXrMwGp_5UN7RlWC56vSopW3xMt_iyKFMMh8jPSumxTmtZke_7YFLvRnzWaotgXjaaYAWh5k93eUU8jDAW8dZsPdVbdQcoeD64sRre4QYwLHnu-hfNV8wvanH_lL3INNZyOVw2y1LluUZp5uscRy0OjVT5ag2QI4B7LZZKN-SkPB5RY1g6VloBICcWlF5GGz82Oh8G9QJLy3BjeF2E2UcfNZNt_GeQaGvqRhpbPbR5xPSdaFaMJjLH29jlT553SzynHtB-_mdVArBBhM_Z8D8_dNxHBiGHlKHhqDHHM4k5drqNn4jMygH44V8LulIFYDWVr1ahYAKK3CLqrrqX3HgwCt_xJM7dUpHCTWmp2EsFPQGaJYInJO_8oxohWpte6MM4x_PKRvJF3bkqH2b-0wvVOBe3N1bDeqjHwucR1raDl9a0sVm1f3lcl1nxLYL9uwdsoPVBP1v6TnerK4dO3wtwGVAot",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJo8jrrBY_aI4RzKlg3Z-b904",
+    "plus_code": {
+      "compound_code": "4V7R+F3 Bucaramanga, Santander",
+      "global_code": "67V84V7R+F3"
+    },
+    "rating": 4.4,
+    "reference": "ChIJo8jrrBY_aI4RzKlg3Z-b904",
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 232
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35 #48-75, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.116156399999999,
+        "lng": -73.1097328
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117505829892722,
+          "lng": -73.10838567010728
+        },
+        "southwest": {
+          "lat": 7.114806170107278,
+          "lng": -73.11108532989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "tropical Slush - bucaramanga",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101918087796788154466\">Camilo Oquendo Sanabria</a>"
+        ],
+        "photo_reference": "ATKogpeZdryaZ3kPPPk71t7mjt0KoMcolj56ohfdKaz5Mwbj3ukq-qJNMUsO4FnL6zlEx955m02J9KYIEw_oMyvdKkpRIF0o70FAK7w-OlUeI62jIY6WXpBunQa1jcPb6BA0O-RtLxCJm-JoY87rCRsK-3cqPwRNKSRfJZO47beai78fqeuwFvzkQah--HBI8XPgoF-PdyU6NFR2-b0BIwECEdhn1ehvC2WCRBLM_s-gTZ0a9o9YXd8NxBxka1gCmfJlCdHWSD9XK5ovdDqsb7yWlEBwWbPeHjFkiq4yjj7jAn50a9KJCRja3XmhTtXZvfWQsOIURWAZVp8Ex9TeAF-vCF_PueI6v809-tQj0gEcTt_zhh8zlJ9cMgLsI4f8WdOOuh1NtT88USJ31pOaya401EF7xcdswWug6tSJZ06IOrBF2ckE-NbdQrYGCO4mBtsuVkeWyM-uos-Xaxq2tJRTUu8ZQYV6nku1j7d00zlo7RNuo_U3OUb2ZaJ9Cs-Yh5t53rgvUVMBJRmdug5GWa8DDSgbh1-o_-sFkDh5EoDNjD3Ze5Gej_7Ud-z5Bx5st1zIJnHQuqYNqd1C4Q",
+        "width": 2272
+      }
+    ],
+    "place_id": "ChIJnzKsSic_aI4R5rx6trp56Ho",
+    "plus_code": {
+      "compound_code": "4V8R+F4 Bucaramanga, Santander",
+      "global_code": "67V84V8R+F4"
+    },
+    "rating": 4.7,
+    "reference": "ChIJnzKsSic_aI4R5rx6trp56Ho",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl 93 #34-180, Sotomayor, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.098817299999999,
+        "lng": -73.10688080000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.100118729892721,
+          "lng": -73.10549347010728
+        },
+        "southwest": {
+          "lat": 7.097419070107277,
+          "lng": -73.10819312989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bucayba, Skybar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111362449778772727518\">Andrea Paola Lagos Espinel</a>"
+        ],
+        "photo_reference": "ATKogpeWuPPtAi16Bncft6CKZWn-Ny0ot7dyD9SahARwdohpQ3Dw-5dj_qjXVcyj-Y_tYS3-PLOg4CMtEX21JLX9YX_PGqICnHi3Lk_B4YMjmCIi46tE9dcDCxXijKmN12pcjjMvbZGDpARTkN8CIovEQu-H_fY1Qr4DY8GJ48X8K8a0cLrpqSMNQemZ-8pF8l9huqydnko8pmbRDkNyIu5nNkD9QNciG1duzNd6cq2YlnYJQ07d-BI_l1B9yctJp-fvFxzzO_rKWceO0vYoe5U0Bs3XudfkfZZ1EyzMBQKadGrE8N48q5Si8pfMb1_pgb02aVQtge3vUSYBTF3lFWrfaXzJdVN6VBLHLR0f32xtNnW6QFRZxI9_ejDs1hZngAhYPcJ5F2dh3ipGFIHVoT6WkOF90RNDGEniB5b3EJ-SlgtCXOgTBLN0vQPhTU6v-8iZsdFyFmKgi-GV0IhjoJmMxSM5U3BiCaJdiQhKKp1vTiA0PbEz9ugokWXrzw-CeIo9zDwyWO5eObwlXnTDKhMWSjyjxOec2_ITHk2hcAisQlroqVYRcpUF_HNj_HuryqUEjKTu2BDO",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJYxdLxpQ_aI4R-kPxOWX5LHk",
+    "plus_code": {
+      "compound_code": "3VXV+G6 Bucaramanga, Santander",
+      "global_code": "67V83VXV+G6"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJYxdLxpQ_aI4R-kPxOWX5LHk",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 443
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 32 #48 45, Sotomayor, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1159053,
+        "lng": -73.1118244
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117245279892721,
+          "lng": -73.11052482010727
+        },
+        "southwest": {
+          "lat": 7.114545620107277,
+          "lng": -73.11322447989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Necio Gastro Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103002078917928771070\">Juan Sebastián Sepúlveda</a>"
+        ],
+        "photo_reference": "ATKogpdE7AVeOFSpe2QEKKT7Xdu-iSf8O0nUxMNYW9g7hAuXK4t3hyN9S8CuJv2G1qAfLvQiJtmvF5J4x1lPfhAibWcvXpPhVun_jYYDKnevNHndqCndYpgXDDQwx8J3QC14NJuXD5q4iW2G82n2Yhn-S_opob-gKVt8S3w12kIYtErwOOeSQ76ibtyCiZIhGNe6eWx59Ry2yHc5NP8HeV8iP5-_SUw3-JcLuwL2CwSvIeRQbVdSb_na16zh2xLnPIO0iJd_H96DZBMwsa37Te8oFhD8Jjy4_qu_FpoNjnNuIrSB6CfRCG6TeE8-XUMthbMfsrBmZr1Q9FYw27ayxGqHrpiAqJ-vEFhYRpvqP1hUONYhNHrba4ei31AikXgPv2NDvuTvIWh_sKYfimKnRjDvXlLjrG6r6grmCFRa7_Fas0XQh4MS15kvR7ckSVrzUkLDyRR3SsB4zxDufMeyeWMZfPzZWM_CqmdyuPshnxBQORdzb4dE-UV0AhKqOTtRwr9uX7DKjVAhliuzxQedUBDricUHX8QgU06D6_worrdQkv8bGFYymFGJWfaK62X_GtA0xy9ycQ_nyJC3jKU_26gZZ0J42B8",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJ_yFx9Jo_aI4RzgsFq_KNspk",
+    "plus_code": {
+      "compound_code": "4V8Q+97 Bucaramanga, Santander",
+      "global_code": "67V84V8Q+97"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ_yFx9Jo_aI4RzgsFq_KNspk",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 257
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 32 #26-50, Floridablanca, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.069432,
+        "lng": -73.1044395
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.070808279892723,
+          "lng": -73.10311937010728
+        },
+        "southwest": {
+          "lat": 7.068108620107279,
+          "lng": -73.10581902989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Cócteles Y Sueños cañaveral",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106914618547775272464\">carlos mario vergara</a>"
+        ],
+        "photo_reference": "ATKogpcV3K5sVLJLCR7hyvjQh5jwaKUDeTHcirYezV4SE350wK4U7TV1V4Wdoh2GuLteBSpl8eYaF0RQragR5qzLtCzxUqj2hzWl6LWuDDVk-5-1lYx_FRGZauefzLt7Hs7iRmX9iEX8u_C6HtNnu4yoUKBsUevuxhoLEB6QHBEuhoUFTTO20FqS-46yTjeB71bfoegZPxafoNxNihibkj6O6Iab9gSYpBY59_MdRkusOI6cECiwF0Um0DA1cwJ1Xe2UM8aYbXnghAyUFvZD0t_h0OipvqvdzbFDKv7cXRrhMNbZ3KHg5noErIWHVtppYfMTB-UC5VDjcPpcQebwml_B11dK09c-qirxWRgV9beaGX40kGoI-02F-esnHwbogexWIiw0aQOSzgF9lS906BUTuTdR8QHj6DfXSbd0aTxgmiOBdnpEgA_97hAKwmGtmu3UdP_2Eo-VzC3MydGNfi7jb3Oszl8S531389jezgNMXud2ndlUOzCWkQOWAgC9FLMuYt9NkeumceJdkTL5nKjNCrhxEO9y3pEC0VzVpAlClJPvbVVAtqtuA1z6SFYgmaEguDvfbBRWJKQT0Q",
+        "width": 2160
+      }
+    ],
+    "place_id": "ChIJoTvQ6DI_aI4RijbC3a2cIX0",
+    "plus_code": {
+      "compound_code": "3V9W+Q6 Floridablanca, Santander",
+      "global_code": "67V83V9W+Q6"
+    },
+    "rating": 4.6,
+    "reference": "ChIJoTvQ6DI_aI4RijbC3a2cIX0",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35A #54-79, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1106116,
+        "lng": -73.108071
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.111947629892721,
+          "lng": -73.10680032010728
+        },
+        "southwest": {
+          "lat": 7.109247970107277,
+          "lng": -73.10949997989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Rafikki",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107976285463668915201\">Andres D García</a>"
+        ],
+        "photo_reference": "ATKogpc1s5XODfrh9b1KofOBFJQJr2ebpw-unS6latW2NMV5ul44UHgDfXK5EYiGccWTfWrPfo_RN2F3JhdxururAHmFkmEVsY7HuIVJipoyI8GwfJ_tfaHS1iFIgldzNgMrzmcEKJOynhxcY9sjOhGg27_1O7ZauvKWBbFcmMAzvotIoTqal1dMb3IaOBKcqTwgDJ-4Rnjq03AmEpulV0fNGZND5scGPErsD_fhe-48AyhVeLnFSqYIa3ZpO6UUREw1m0JCe8lHA_Q40lHV29nk_cSqiLL84heL0MfRPiU6aGE2zyKlaaDuKrkKveOM0ErTo5E0oOKI8ua_xN5rTLXuKDrrfK9Y8Z6JIl56WBBWJxdWVY8LYFXpoL9Z4DWM3z7lkSVc1LwLKrBo4g_4hLwNU10VXjspwsa_DYuoluzBRYWP1etwwkVI9axbYyeb6RXBElHNQWowPPGPpQGA0knT9FFd91JBiDbVvO_yk59_mubaWS2zBsXzP2a3Cdum5gkdFjlKg7k0djUZOGb51xBINXvdzrqcxbLqfv0zRu876nLBTQV-xUl_uZvsP3JAvCjcIz4phQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJuUpx0CU_aI4RVTf6NFn-J_U",
+    "plus_code": {
+      "compound_code": "4V6R+6Q Bucaramanga, Santander",
+      "global_code": "67V84V6R+6Q"
+    },
+    "rating": 4.5,
+    "reference": "ChIJuUpx0CU_aI4RVTf6NFn-J_U",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 23
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Dg. 105 #8-22, Sotomayor, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.0906968,
+        "lng": -73.10682969999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.092025229892722,
+          "lng": -73.10543817010726
+        },
+        "southwest": {
+          "lat": 7.089325570107278,
+          "lng": -73.10813782989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "El man del bar company (Servicio de cocteleria para eventos) Bucaramanga",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107347073350069721861\">Diana Carolina Jaimes Balcucho</a>"
+        ],
+        "photo_reference": "ATKogpcs-LDw0kKequjhWsbOK4C9uq-fZzHwo9X6uoE4JWeLep1f7LD4jJ4TpXcd-z_va8mlpT0Ya9ziRKw6vJqWD49KuB00y-L2N1PkFJpHfFlkVCZntHtJ-zDGTYajrquUeT57pZRpabCHTbgEw2bY1FADpj-GS76AwR0gqUSaJLEHwn016nNoP-f7WKb0K-aIqtyQfa3BwoX45L_S5gz5WtnWtx6gtaIZ05Kgl6GHAaYIlwcP8KAaraW5ZdoaynZbduOYH8FLwR6fttNRjwVEXUl1GM3lHBdCtT-o6Z9AOEbyMshbSrLRuLFahdV6SJjwqVgtjN2xlBt4R8X0Ty9dKyg00OwnmsGySfnlcbv1oWXbUetZ1tJe89w-kmqkC7uwxn9KvIzdq7ycqF4Fng5ahMh6K-z3fib3twtPJRgZgs6D5iBe3lhtvM10MXdJRc0RBtQL68ZAwpsOAJN4hVn8gY0IeSP3yZWOUfG4Yga2-ESYMmoK_CMAjMaZHnuNv0M6gszIP0X4j4VBJxnbF_nGBPaTu_p7D_utq8p7zAdwK-lKhqfY-G-KZzme5Z3YHIHZRy7UOVWBrH91kA",
+        "width": 1066
+      }
+    ],
+    "place_id": "ChIJpZD6RwU_aI4RdMjcM5sADhk",
+    "plus_code": {
+      "compound_code": "3VRV+77 Bucaramanga, Santander",
+      "global_code": "67V83VRV+77"
+    },
+    "rating": 5,
+    "reference": "ChIJpZD6RwU_aI4RdMjcM5sADhk",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35 #37-50, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1229648,
+        "lng": -73.1106604
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.124325029892722,
+          "lng": -73.10925627010728
+        },
+        "southwest": {
+          "lat": 7.121625370107278,
+          "lng": -73.11195592989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Chimenea Bar",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110980567893414428102\">A Google User</a>"
+        ],
+        "photo_reference": "ATKogpd8qeog1DCh_PnnfBU0EO8sGtjRsDXBemsC-lovD3GhUspHGT01NFjDmXDNe421IIV-4yYtcDoaTKrg05yvdGL9LGYfHrFIV3950Qf08MqLQWspQx1VETbWPX-B3OtXqAxCs9qyPuNfqWu_WL9bQmbALKMdxRBJtU-Hi0Gs5Sg-ZJfYJz0JuFFQOZNA0WurudfW09Gv7UD_aKDCtL3gJ128fVKJXyhk4lSl7WslncHTr7GFzYcAxSBdoUsBqO_Z7YyY7elFsi-xCwUrKmuIsVIx4nGDiRMbkHj8Sv7VWmPUHkdUijI",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJX5os810VaI4RsGjwafu-fNs",
+    "plus_code": {
+      "compound_code": "4VFQ+5P Bucaramanga, Santander",
+      "global_code": "67V84VFQ+5P"
+    },
+    "rating": 5,
+    "reference": "ChIJX5os810VaI4RsGjwafu-fNs",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "hacienda san juan, Cl. 101 #40a35, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.0968322,
+        "lng": -73.09791919999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.098177629892722,
+          "lng": -73.09656892010727
+        },
+        "southwest": {
+          "lat": 7.095477970107278,
+          "lng": -73.09926857989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Deepblue Cocktails",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110289552802330467746\">A Google User</a>"
+        ],
+        "photo_reference": "ATKogpdOpTA7jR8_Mh05EGOKWZ2xirnmteKYXpQFZnjN6uxeHq7afAnDKfquYFYRrToHC79AjHkiOm7y9ptfwqjR_Be0H1ndyq2k31ttzmYW9AxETpMHOsuN1LKFS9QMCLESyMdi82-rGkEWDVvpJmN2jhFPGJ1uVI5QeqU5GTLWGE_roQvi1rGm781jPNBWFODGXp6CJ18L4p4ldwvCGrtyUn3j35rm069m99UKyugRwECV-ZBerFHlGPPl_lS0YHmOYQYi3C8ZbWw9EvOemr8AIGuWeZqgu3HGDkdJQgnErU01O32wnkc",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJ1_EELZ0_aI4RNZxb7cFbuzk",
+    "plus_code": {
+      "compound_code": "3WW2+PR Bucaramanga, Santander",
+      "global_code": "67V83WW2+PR"
+    },
+    "rating": 5,
+    "reference": "ChIJ1_EELZ0_aI4RNZxb7cFbuzk",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 36 #51-79, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1142485,
+        "lng": -73.10818400000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.115587579892722,
+          "lng": -73.10689037010728
+        },
+        "southwest": {
+          "lat": 7.112887920107278,
+          "lng": -73.10959002989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Auster Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112118494045611638033\">Auster Bar</a>"
+        ],
+        "photo_reference": "ATKogpfTmjEC8HPTBHtPtFb5b96YJPI_WkSxrqcpPMd7VUbDMy05i3cyXoXfyb4ArbDFt5PJ8jJ9SBgEPZ5Kdjc4XCdcgnuLb8kLZ8mmrMxJuC8B78wR_btXDO165A-xNJybdcb71J-KBsYvdAzxcjgAojK9Le_QImFYBcFWkcxiMPf_K2Oi8pOd3gbyZIFcCa6QptLXEBuLMdzTbOxwowtPR1OfsmSNPBCae-hhEtZvB4-n-CoNmz6SQsTNqx4QzKKmyrcSFmSKynMmEVYxsl7FrFjjCg86T-gs_AI9SldT3CR71v-bD1c",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJObzee3U_aI4RNrvdjyty-FM",
+    "plus_code": {
+      "compound_code": "4V7R+MP Bucaramanga, Santander",
+      "global_code": "67V84V7R+MP"
+    },
+    "rating": 4.5,
+    "reference": "ChIJObzee3U_aI4RNrvdjyty-FM",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 91 #24-11, La Victoria, Bucaramanga, Norte de Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.089756599999999,
+        "lng": -73.1130265
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.091086679892722,
+          "lng": -73.11168447010728
+        },
+        "southwest": {
+          "lat": 7.088387020107279,
+          "lng": -73.11438412989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name": "Instituto del Cóctel-Sede Bucaramanga",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116589658997744772339\">Instituto del Cóctel-Sede Bucaramanga</a>"
+        ],
+        "photo_reference": "ATKogpf3lglMHdFIiJJbrwbCMCwVwOgtfnIqfE43pCjCNz7pQ1nkXEdDR2GPxc6wHPGJXt7jPoF0HGIO7ZfUyFph24Oh48yUsJJ9xM5aKYhQUCjn6687v-Kh1fyxOGxcvf8uuyOApTLRH5C_ud82NdiULysYaWC3TfUyQcR9MxvnjK2eesZy49diVw6IXJUUhmSMcNrd8vBdSjijcd0z3MD43K-EqOIATNLWudVHOiW7pajm8FvGSAkseio0EDMG8cc477-VxQ96GfKftgAULRNmrdulaSLkg-idVOxvWTp5YUDgSwEjLWM",
+        "width": 768
+      }
+    ],
+    "place_id": "ChIJQUBHo7E_aI4RAlIcVkY8UHI",
+    "plus_code": {
+      "compound_code": "3VQP+WQ Bucaramanga, Santander",
+      "global_code": "67V83VQP+WQ"
+    },
+    "rating": 5,
+    "reference": "ChIJQUBHo7E_aI4RAlIcVkY8UHI",
+    "types": [
+      "school",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl 36 #32 - 23, Mejoras Públicas, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1238724,
+        "lng": -73.1129526
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.125188179892723,
+          "lng": -73.11159292010727
+        },
+        "southwest": {
+          "lat": 7.122488520107279,
+          "lng": -73.11429257989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "La Heroica",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101895645030192547122\">La Heroica</a>"
+        ],
+        "photo_reference": "ATKogpeDVugfccpK-90wAc1gEbCWsy3njDm2NJG34QyR4sDe-KAoU6kkkLVIhDfcU6Y6yL7ETLE9CPZhe-xocXjeQ5bLm5okVxr4xMjxPq955EUJXt4_d4JndWsztD3mcQbs6WbNZdoj--zAqCpUfuerJ0EQZuaNNLSy9f2C9mef6ljABQtuEQ0QkpuCyA5L8yg8GSPKcwLeDcJwaAW1OACk_uOq1RREFvn_mgGEU6BjJsRqu_uT_QdLz6R_YxLL9eN5GKJTUXaVWGK0ocxTGudRKYN3MRIh1FtdzaGkjhA9aZa5pwG44O4",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJhbrbTR0VaI4RqZx-GaTmLVw",
+    "plus_code": {
+      "compound_code": "4VFP+GR Bucaramanga, Santander",
+      "global_code": "67V84VFP+GR"
+    },
+    "rating": 4.4,
+    "reference": "ChIJhbrbTR0VaI4RqZx-GaTmLVw",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 788
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "680001, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1248073,
+        "lng": -73.1217437
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.126145179892722,
+          "lng": -73.12042212010728
+        },
+        "southwest": {
+          "lat": 7.123445520107278,
+          "lng": -73.12312177989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Kanaloa Bga",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJPbKNTskVaI4RI_hN2BXzqhk",
+    "plus_code": {
+      "compound_code": "4VFH+W8 Bucaramanga, Santander",
+      "global_code": "67V84VFH+W8"
+    },
+    "reference": "ChIJPbKNTskVaI4RI_hN2BXzqhk",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Circunvalar 29 #12-59, Floridablanca, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.072288599999999,
+        "lng": -73.1052283
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.073716629892722,
+          "lng": -73.10387567010729
+        },
+        "southwest": {
+          "lat": 7.071016970107278,
+          "lng": -73.10657532989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Peregrina Rooftop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117223845302976594123\">Carlos Villaronga</a>"
+        ],
+        "photo_reference": "ATKogpc2x7_jI18gHUA7oxGJnPsxXc7FP7IStQ_eQAgYfYRtmgmaL4P69r5sAVGU6rI8lv2BbxLkODYbTC8I0cGwtbTU2hXJJy2R7cFS4NyH8N7aVFEyITHULImMLisw1EgaoKqZrzb44Xt_Za-O8IgghBnmpSN22vzL8ZwE-H1S8-Tc7AysUG_0oAsffeU2EXwQJcPmRcijVLtNZ6dJoWa1YqocQqUXJNL6Bkvq2hyDmI-egfrGgfyn0jEm1pfWpdPSVKT67tby6C3wMSOXc23vZ85OeXpHhRuIBcrH48_bmohFAuXsG2Fa1cUIUG1h2lrP-uEt8aANYCFy_PnZe06rsTPIAFHJ1CqurYox0rypsx3nW11g-1IVR7YRxa2B4jAjFQJhxNsSzmvY8GA3-vpNTOBz9gcKGgNlcUqyaE_G0qlsisKfazF5_QIwVYi76etaaonv7LJeKfcsGWehKUmPzeW8eEw-El-5BJC23Q79WhhAS-oahCoMM8NuPq1wlNvpKp2Slqr-A5_qVVMln0aH_vpqhKFR8N7ZpjPrktM7PCui3HYTb-rnG5yXLdSVVR_hldZpKRpv",
+        "width": 5328
+      }
+    ],
+    "place_id": "ChIJ6xfGQ5o_aI4R-Xq0lBCgvew",
+    "plus_code": {
+      "compound_code": "3VCV+WW Floridablanca, Santander",
+      "global_code": "67V83VCV+WW"
+    },
+    "rating": 3.6,
+    "reference": "ChIJ6xfGQ5o_aI4R-Xq0lBCgvew",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 238
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra 29 #41-30, Sotomayor, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1205402,
+        "lng": -73.11351239999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.121917679892722,
+          "lng": -73.11212232010728
+        },
+        "southwest": {
+          "lat": 7.119218020107278,
+          "lng": -73.11482197989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Banana's Grill And Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 908,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100992323846935427874\">Iris Tamy</a>"
+        ],
+        "photo_reference": "ATKogpdaiZ_Ryvf8Y_1AKg9m48cGgSLrU9_4GDvlXhYohPuQMHcdfGhMPEAQR8Uo5mYIYvot7bKGQq1z_PvVsNLhQ0dm475DczE8wY-V5StyYjrpTMQhLKUruSztzb8ostlbKHeI8KK8wFZOQ7ML7KO98U6eE5gg6z9EVNuRjDzZLtcBm7P9aaKjX6cxIeGOqvAn1L1_lMeq-RA9xrfAwLpLQUpNU-zw8-MkstP5-t_JeQPZg48YUzrdTTtT4xjcw1lqhbdUH7Dhj8NDODA0oxDIJ3bD919iOnPDAdoqFVh1zwnJ6FqSbHrdqaKe8Z0VvLzXW8PxcKe3OzivIMmHUoGk2iJ6KLEvb17ej94Snh2l0LaQxElIe_0YO32mXmmPDi6e2mkqeNe57vIp6GzSEgsOMTfIn7lLgNgKYAkx1m2CNPvs4xmfZ2P1lX3ymCPARmFAYTOXZ90EM5GfHLLptW_Pp_vhwMw6HDxYfmEYaJxjW5MS3zMJ316vBRZNOrMjhLenPYNwlEVdLJch-E2BfE6w93__AzHH6_fslfJy4hHp5daDWV3wed0jOZoEsO0iMa0TcjK8J1sz",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJH1gSiN8_aI4RuRGSgO8jL5k",
+    "plus_code": {
+      "compound_code": "4VCP+6H Bucaramanga, Santander",
+      "global_code": "67V84VCP+6H"
+    },
+    "price_level": 2,
+    "rating": 4.8,
+    "reference": "ChIJH1gSiN8_aI4RuRGSgO8jL5k",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1529
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra 20 #112-51, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.0816194,
+        "lng": -73.1180725
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.082999779892723,
+          "lng": -73.11652747010727
+        },
+        "southwest": {
+          "lat": 7.080300120107279,
+          "lng": -73.1192271298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Granizados y shots bucaramanga",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 939,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105549245661777834083\">Juan Sanchez</a>"
+        ],
+        "photo_reference": "ATKogpfYZRiR0i4Uh47zmbn5YnBaGWOzi3Gss4pc6O4h4iWF4Ei_utJ3eGwU5JLZXM9TXVfnhaMaG3Em6p6netFj5qUCeTjy04vOfOqKzVxmFfOq2fXqya9gOWEsLEXp5lON_eWVAJVDZfDaq0nzc9xB5DUPrVc2fWgCVDjGJiMzKOdT6ht877rl_7IFcgvn623O8YlKRvhq4GHxoQHIyxyLq_I2VuUjzZUYIQtuV-Sf58dut6JIWPTc8f_Hi4i9RcEACGAvisYKyz0VRSVN5ySw-sM2SmM4rEaglv2gVnTfI37fpxcJTEn-Dwd7iKxgdS5mVwbTZ247MW9vXHfIYe-X9CgzC2ZKlQln2B3S83TRNtsxJgrWZ9wLUlPJiTAPB8xTc-_fY2wV3kdZWx3nE-UL7u4dG2B8CTHV47ZBHhK9h_j4BKtT49Wiu-_qU8OmhKKm9p9ct7YRLt61YiwdPsX3jf7f2tNJp1K9rJTkyfbMDcx-3UNxQc3p9ZL1s4AFV3Btek6x2JbralacvLYIXo0lIM8Yqw0wV3nvqG8Of_TGaYWCGBbsHPE5WZVGA7HFsSU4vcaEypQOaRlMsA",
+        "width": 893
+      }
+    ],
+    "place_id": "ChIJWRQib70_aI4RJyeu2A88Tu0",
+    "plus_code": {
+      "compound_code": "3VJJ+JQ Bucaramanga, Santander",
+      "global_code": "67V83VJJ+JQ"
+    },
+    "rating": 5,
+    "reference": "ChIJWRQib70_aI4RJyeu2A88Tu0",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 34 #51-50, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1141621,
+        "lng": -73.11007529999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.115517829892721,
+          "lng": -73.10868797010727
+        },
+        "southwest": {
+          "lat": 7.112818170107277,
+          "lng": -73.11138762989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "El minotauro bar",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104780365832876683714\">Andrés Ortiz (Spikin Parker)</a>"
+        ],
+        "photo_reference": "ATKogpfIf2E32OhzrpHFFGiorzHaXP4gS9g47TMK_wY_sIrTN7bmCkSLgI1eEYZnCB6qiJ62eQ6eRQE8crQO7U_6XdKKnIHA_JVVGDsNNa7YkbvBbymqnh4kuP33Iq3ZJxXxndEQF4ltoUA-suHJbh-vtNhWvqlm0ak_jWHIRZHCPlHP0ilWaH7Z02yhMHLe9FLZzAYTBjC-iDrAY3qegv9guCLNleofJ_TDUK6GtsKHjR47tIJieKVzXmPhnRTzN90tMjmNckwk8fMJhgygd7xA1DQRDfj9LIdrmnCXR4tyA5t3ySEQ1Wl0SurnGju4h6aZ0QLjuem1XUeU4jCro1Syhd0QB7hpZ4Tkp-8T0cjAblyemdJGolpXFJcqZXP0oV6oF0OxsdS5WK-AXuBIFtrolGuA5r4UOuRPIRlm56q1jHudhnjcijWoTkL_uNc8dEI9cfwGuzAr8WH-iy3QQiYQZfL_VkIpw969OVn4Ruoa4eMsW3b-JyfeTOb-kkANOXTb2fvIjL1G5h81XVEtT0We_x8Q1tkH1lvRGA0Ng2xNNIIt-7sQVz6QgWOT91-sanOo-L2ewor1",
+        "width": 2455
+      }
+    ],
+    "place_id": "ChIJBXQtL74_aI4R990ekI2sASg",
+    "plus_code": {
+      "compound_code": "4V7Q+MX Bucaramanga, Santander",
+      "global_code": "67V84V7Q+MX"
+    },
+    "rating": 4.7,
+    "reference": "ChIJBXQtL74_aI4R990ekI2sASg",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35 #128 # 51, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1134295,
+        "lng": -73.1093918
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.114783929892721,
+          "lng": -73.10801312010727
+        },
+        "southwest": {
+          "lat": 7.112084270107277,
+          "lng": -73.11071277989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Beer Garden Calle 52",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107122398813855742890\">Claudia Vanegas</a>"
+        ],
+        "photo_reference": "ATKogpdWkBn5U0-WDhKN8z5yELMYWabgLKlfQ8GKySYjyVJ6zXCBlR6OoDKaJPBD0sozWC2QZAB_YSp5XM5LaFdpZ0YIBlSmJ902iwVblX-nP4Yxt5oJnsxiGz3-9qnqfzDDlWZCSPH1M4D1F0CxUsdhV83R5KoVz--FEHSdgH69LB62aBLBvERmJZKxmxWUMoo7wL0SbWhWDCjc709YLaamabh6C6ESMptwmxpFHKbdCoNK7UUCyew0lNmzlKv6mCR2E7NRzSqXExlYg7pjWlg_RKAnTYRcm-D6WSpERgZo03WXilNZJ9EzK_qAUYgbfzmybFeJSfLuwulOkmZ6xCKmd_JuRqf8OLeMHmMgMRCN5Jv6Nie1Q-Y25gmiYAANBEsGN1I2mdEXDp6ByUTHlpoZjSTfXKBROshmOIx9SvbrSvXPOwWn4SgKRZJxwEJv5wM9ey9GAcWT-stkvtqIusmP8sQOdTRPCuEaUzFXxmo9-LQ1xn8I7omJeJfkoncyDlQey5NEusg0Ns5brdnQLh1q85TtZQIy0kRnWniAuuntGV4DU_Wg5SQ2FRoo0jTgO-Lygoxchg",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJIbdNDuc_aI4RGxFPQRUCtvA",
+    "plus_code": {
+      "compound_code": "4V7R+96 Bucaramanga, Santander",
+      "global_code": "67V84V7R+96"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJIbdNDuc_aI4RGxFPQRUCtvA",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 313
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 33 #52/36 segundo piso, Sotomayor, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1127296,
+        "lng": -73.1105966
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.114083979892722,
+          "lng": -73.10922072010727
+        },
+        "southwest": {
+          "lat": 7.111384320107279,
+          "lng": -73.11192037989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "BIT BUCARAMAGA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1296,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112828837782954838374\">partner nework</a>"
+        ],
+        "photo_reference": "ATKogpfRBEHkisf-wVcK9uJNvAYuml3RtLfIvEFLJbnsAyYV970pNUdYpZ7zMyp59Ip6ydZALeNKI8c6bnhFmDjt6U9GSu2BdkAhR2gQQXLf4y9AXtTc8e-usC_DAPb0fvwgjgKdbqYuCxNd3pgAcfbmutVl4HEHV92q-8UDMZczkN1_CwPeZHgpbXPHQVH424Wiuo5fFWrXPvzzT1b42RxY1wVzD7GODPCM1mUo7jU6Jf86X4FZH1gOsLhRI9FU4D3GE_dv00L6CH353mCyFy67BOcepB--TvkNpGNESr7Ucu6EAcyZt6zfu2OL7DYuV3PwJVZHnhLfFGyD8Z90PkeKmkq_JEDlRTqYFQvLVnLlEJgoNz23tDm-qpL_K1R3lMEGT8sXi52NtGB2imY-wMnjTu4IQ6LwFyK6_isjMg_50iararOONlQpmrIixsAvUx8q8iVU9rGjhTtybFfDSkXoBAjW5-jiovBZfUzS7OWnCJKqxCGJCja2A2CeUzOG5SAmml97wo6oZ9UhoqqChAexC1iJ0CHaZxIYZpBsL4Yb9x0rYP_1OiwHYZpu",
+        "width": 2304
+      }
+    ],
+    "place_id": "ChIJd3pXglI_aI4RWSepKPwJcpw",
+    "plus_code": {
+      "compound_code": "4V7Q+3Q Bucaramanga, Santander",
+      "global_code": "67V84V7Q+3Q"
+    },
+    "rating": 4.4,
+    "reference": "ChIJd3pXglI_aI4RWSepKPwJcpw",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 165
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35A #46-53, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1178145,
+        "lng": -73.1094263
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.119157129892722,
+          "lng": -73.10811807010728
+        },
+        "southwest": {
+          "lat": 7.116457470107278,
+          "lng": -73.11081772989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "BARTENDING LIQUOR STORE",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 9248,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105817860901420157089\">edinsson ferney gomez merchan</a>"
+        ],
+        "photo_reference": "ATKogpeoZMZYw_4y4tpprSsvUJTKBqMARbbZ4OHxLOGTKT0hsGlQrX3EvJrtnggkRnoYO8sAFuX1JGzqHUKxeHZEABHstepyfewjzbqIHgUynoc0b3WwaSQlPJXtKiO_aLNiJAJNtCpLG01dXuDC_DKeW7sSULdfcFVQSfBc-EYg8c_12IzE_fU5huTkESZxRlfPEzthr9--9n84XZylUO6DDwCbwa7vTOH5cgtmbSyEhVJJ5A_VwKM5Im3nYdeNYcZ6lPjIGmDg0FtWoILJ1wYkGF5MIDYtr-V6JRvPs-xCTltXtXIX8JVVO8Ui87P5EDjjQtCb5atRlb8_7oUotTe64da7tuaw9G6zMaf8Qmga3mnwjHggp_A4990lKIFPkqKmZRqs6ovRWoff4dZOA_f4y2LS6R-FIuOzVKQHc2LnMTeXVrUxMLlVk73uPN3px-uAS0GvydejFsUZTZ5ibweA_vm7dYrQ4C2M9wTVbObXB3XPe0J6zB0qyiWFnSySzItrhWD-zZPbawRtle7kEsiedb-P3zOdK_P3h2wyWEUPVINGx65xrOEVWV0dxcl5dy7IwTLt6vgT",
+        "width": 6936
+      }
+    ],
+    "place_id": "ChIJp_cZaaM_aI4RE5A45TQePXA",
+    "plus_code": {
+      "compound_code": "4V9R+46 Bucaramanga, Santander",
+      "global_code": "67V84V9R+46"
+    },
+    "rating": 4.7,
+    "reference": "ChIJp_cZaaM_aI4RE5A45TQePXA",
+    "types": [
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 23
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra 14 #37-38 local 380 y 381, García Rovira, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.116829,
+        "lng": -73.1270535
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.118182379892722,
+          "lng": -73.12568927010727
+        },
+        "southwest": {
+          "lat": 7.115482720107278,
+          "lng": -73.12838892989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Cocfrut Dani",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100732160383027831463\">Cocfrut Dani</a>"
+        ],
+        "photo_reference": "ATKogpeSqQd8xGT3kJpK4LFI-3kzY3htzk7GWMsP4BFELYwB2O1cjA382mkvKVnx_Z68uzMFQDZOCUHHGh2aMBsq3jP3U5__NrtAwQg7YnZzpfEhmisOhdSz6l9Cb0r-ACZQ1txtMmss9ycGtZaZSI2HPIljc_wSXYBAgLcY-HKC1XXmEVbNdl_vQu6gedUCms9TdAni4w7Jkcuuwzu83F4LfCDrywbVYDDvxJXKsncBmu5ox7JjQONR1xrrBdpmOCGJNOd1oDbQQnvmq6PIeoq3BJv5YbVdiFEq6oE7nZbT__u36jHu8Kk",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJW8Z6tRM_aI4RULnTrVlKjUA",
+    "plus_code": {
+      "compound_code": "4V8F+P5 Bucaramanga, Santander",
+      "global_code": "67V84V8F+P5"
+    },
+    "reference": "ChIJW8Z6tRM_aI4RULnTrVlKjUA",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1368513,
+        "lng": -73.12482849999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.138272229892721,
+          "lng": -73.12349192010726
+        },
+        "southwest": {
+          "lat": 7.135572570107278,
+          "lng": -73.1261915798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Bar Honey Cocteles",
+    "place_id": "ChIJoX-5NAkVaI4Re7ge2e_RPcM",
+    "plus_code": {
+      "compound_code": "4VPG+P3 Bucaramanga, Santander",
+      "global_code": "67V84VPG+P3"
+    },
+    "reference": "ChIJoX-5NAkVaI4Re7ge2e_RPcM",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl 103 #19, Fontana, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.0865887,
+        "lng": -73.11792860000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.087956179892721,
+          "lng": -73.11657802010727
+        },
+        "southwest": {
+          "lat": 7.085256520107277,
+          "lng": -73.11927767989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "SangriaGold",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114938970176751675103\">A Google User</a>"
+        ],
+        "photo_reference": "ATKogpeI8VG6gyDNmAQVM2XuAQE0oZesX9A8MZuoSsoeRvgXHemztZHcxezNrG0KtjhS4ftr9IGCIopneSMOAeU3IAs50jFBSBSHMnUNv_alGmOdb6TBq5hy8avUjvpjQsk56StOSRLWgeyBBCqpy225VG1NRGuqrsOeLJsIxFx_D6YJSQ6PW6YGTu54Fs4Rx1Gd4lVKPR37Kc766E0NZ9GyXznBVBwAW9cIQwooVXlU8ju-2Ges5sXFz3HLURv3MCMlAPDY3eVVxi5CflNFejyrYXYYdrr3XXeaoLu7qVp-lCbbAxo8qLA",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJiUfECLs_aI4RF4Xvq7H0SJ4",
+    "plus_code": {
+      "compound_code": "3VPJ+JR Bucaramanga, Santander",
+      "global_code": "67V83VPJ+JR"
+    },
+    "reference": "ChIJiUfECLs_aI4RF4Xvq7H0SJ4",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 28, peatonal #37-35, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.121805699999999,
+        "lng": -73.1147281
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.123059729892721,
+          "lng": -73.11341622010727
+        },
+        "southwest": {
+          "lat": 7.120360070107277,
+          "lng": -73.11611587989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Restaurante Maroma",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 666,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104546674432299111244\">Fabian Barrera</a>"
+        ],
+        "photo_reference": "ATKogpdaulNGxVCqMfFs1tFM-1jJwhrhKBgvGkS5-VQ2yHFvR2zo5550LhqhkEH3WFIMvxLHzOyqLwHe93dq9Wk-3QIf7l9dp6YG9cyjslnNaugL_o8J_LBHn-33d9yEHUU41OSKZZfrjVk9Fn5tL_NtMXScLO7hXjIx-kHlt8aNyxhka0BpALcYBu41ohMHLDteVcIW5p2DGyEqGxLQH3jrh1CkYmDwQtEQuFD657XvZQEiCBOw8hM3vN_xUxiYISeO5FNERMBBHhoUbkiqbz2ylB-omerQiMsFhbTy1OyOY-5BBWxrhonrbflhAb0h_KsrU2KYMKGXHRXoBIhWlmq5n2B4YDO0yCofeWPo7cj1amDXS0ciZWY3RdVXYw5oNXOsoLWmgDc-viqkfneK4uNtvuks6qqMlVrJaN8SoLOSskv2bxGq3gIVHxPfLOsD1D6vnitK9oYqCgdPZ7hXUaBfEkQDyBx3eexBlf3DelCqaEPnMccGoUxlJ2glRdlI-R7pUavnHfIt_rfBzdjxHuchHwlkQPBBRYLq0voAYei2CfpRkEIUmuRYa3knUppu2rWpkeMwX_c12n3r9A",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJOaDkzmEVaI4RiG9PWxFwyfQ",
+    "plus_code": {
+      "compound_code": "4VCP+P4 Bucaramanga, Santander",
+      "global_code": "67V84VCP+P4"
+    },
+    "price_level": 2,
+    "rating": 4.4,
+    "reference": "ChIJOaDkzmEVaI4RiG9PWxFwyfQ",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 809
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 31 #26A-19, Cañaveral, Floridablanca, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.0700129,
+        "lng": -73.1047627
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.071350929892722,
+          "lng": -73.10339907010727
+        },
+        "southwest": {
+          "lat": 7.068651270107278,
+          "lng": -73.10609872989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "SINGULAR BAR",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112629100329531651218\">Andrea Barbosa</a>"
+        ],
+        "photo_reference": "ATKogpehs4wenS1z0y6--m13WqIDDGQOLfnQbisI328-Ht1olcA3wr0fEN-oriBUr1sjpDmaiipAqPkMQeGj-HvG2FmDsT772QiMKGXaZCd--4yRVot_NwWQHRA2eC_m5tPhRqWeqbimwijG3RgMdqjdq9jqEZUS0VqhEtY_jldjpq-l2UW3AHsy-QxpnksfGdnl38BgNd155f8bOO29IUQFZHCuJcVYObxajbUE1IR3q4Ely5YGIRNtJsxokQ4ogPGqsC65kfYa2TPsrd_bqg4v7N6bfAqBp_BO5gVfCjoa0wYnI6j8ukRhqR61XvipDTj9jTw3mod_tV1IwMKPvGpp6EroC-_uNR00FpyRVah9TyG7P8r0moPatNfmTYpCCcBGOY0ZNmCeW_xKVVvFkChxrTAMLfdje7tBMgyLWVLc-pbTTezJxM471AQbeMoz9GHOFOoHMAb_sDdRgsDqkvDuYv1zddePpc9bK1Cpsbl9w87IXLaMsZ76Bzqq0WYZjlJb1_v9NpjvA2y37IEydMiDnxVC8xUYNr5oPfWELG_g67I5CzXJZ6XqG49-AlxTArjqty0BJA",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJTdZVJhw_aI4RHgVYAAOnoic",
+    "plus_code": {
+      "compound_code": "3VCW+23 Floridablanca, Santander",
+      "global_code": "67V83VCW+23"
+    },
+    "rating": 4.7,
+    "reference": "ChIJTdZVJhw_aI4RHgVYAAOnoic",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35 #33-22, el prado, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1265313,
+        "lng": -73.110959
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.127857229892721,
+          "lng": -73.10953627010727
+        },
+        "southwest": {
+          "lat": 7.125157570107278,
+          "lng": -73.11223592989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+    "name": "el coctel",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJAQw4vzEVaI4RBTf8xqD3SFo",
+    "plus_code": {
+      "compound_code": "4VGQ+JJ Bucaramanga, Santander",
+      "global_code": "67V84VGQ+JJ"
+    },
+    "reference": "ChIJAQw4vzEVaI4RBTf8xqD3SFo",
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra 16 #100-03, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.0879388,
+        "lng": -73.1224246
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.089279079892721,
+          "lng": -73.12111697010727
+        },
+        "southwest": {
+          "lat": 7.086579420107277,
+          "lng": -73.12381662989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Donde Homero Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 888,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107991364866464056105\">Donde Homero Bar</a>"
+        ],
+        "photo_reference": "ATKogpe0z4KI2TlxpWb-AmgTVAUSojdey4tH8kid5vWZN-nvYrU9QtgnT26Rq6bTDg0OraomkiMCwT1lFXOnpc0UPBGS624jce4-KMDo16sVMCfk_Hu2drpx5mI5DZDA3HWqL1qF3QKM4s2WMwZoreTGHewSi8ydGcTVD51omr_aa2UbVDUa-6zIw6xL1jw8DVOjgZmUf13JLK37DFm9eeXuDJq2SaSID_p-Ipi_TgxAx5sMyFgPkuMw0ehUT1awL-QVqH61HphjMdSzlYP1PJyCSKT4ReUoJj95z3oAMqpvWipc7-3LmWY",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJnUNEZaU_aI4RIIzXVMcKs1E",
+    "plus_code": {
+      "compound_code": "3VQH+52 Bucaramanga, Santander",
+      "global_code": "67V83VQH+52"
+    },
+    "rating": 4.5,
+    "reference": "ChIJnUNEZaU_aI4RIIzXVMcKs1E",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl 30 A #33B-58, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1288548,
+        "lng": -73.1126221
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.130267379892721,
+          "lng": -73.11129762010727
+        },
+        "southwest": {
+          "lat": 7.127567720107277,
+          "lng": -73.11399727989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "SKOLL BAR",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103944343927114987627\">A Google User</a>"
+        ],
+        "photo_reference": "ATKogpdmji0cflGtWsrCARSxbPS4qpucuSFwru5J6gIq6-2UV1CaWgCrPR1Oq2YBV9E2K1urLQuJKiEjF5_trAhvZAyRkZav7x8Hx8vfU2QF-Ajn8BLHlAvBBphHVGMylB8ztxmUkSgJajnS6HV2KyiWtncN7lfuuThzFk4ya5Kn51D7F5X-pWrrm50uwlZj2AuFjYZGPorGoCnvbGCyIMMs-A0Lqu-vN04J7pdIRV3AmF_TZYUBMWAsxv6f7IkOQGymf_Y6lY9quOKa2WqpC3dYCq0Nje82fhmp2iCJAy7FKHQhXIJ1Yt3fu03LohtGErp5NczL2bUOxi6lMekwPhMDel5XZACrnHWS3h7oxgnT7COX2xs6Z4C0dSSnw0xet-5-6gZFZVaaUl8Chu3ideh6wJSSyvD-iZg_ToLR9-WFgKaDggT4VjjZhBec7TkjEYttf1fYeRBxARcWg_WNcj0gn1X93BquJrrEvq3yaS7vxKi0gt8XSypwof-WUhW_C39pR5WnVtUZKD_f-3ye3_4Nz3gG0-6zmOewHlwe8zjkN3DJnRnhHv_prX6hRbrtapWzYhWI8R0Q",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJ1QHeG9EVaI4RJSYcHtqxw3w",
+    "plus_code": {
+      "compound_code": "4VHP+GW Bucaramanga, Santander",
+      "global_code": "67V84VHP+GW"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ1QHeG9EVaI4RJSYcHtqxw3w",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 34 #48-87 segundo piso, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1158779,
+        "lng": -73.1102078
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117218679892722,
+          "lng": -73.10890942010727
+        },
+        "southwest": {
+          "lat": 7.114519020107278,
+          "lng": -73.11160907989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "el escondite disco bar",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1440,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117592073166594336316\">SoundCompu Soluciones</a>"
+        ],
+        "photo_reference": "ATKogpculhJ_LwG5wF-3rDx5zMYy_v5LShZjF3DgtU9miBr6zNW6Z46kdGqSWJjayClAEKsZlEO2zKxtuFGo_rdL8cxlumpPYKOaeK2h0UnFaFz8ZvV3yh1uqqOp742H0V2kGYJXiKNi-K5dZyohQRvt903LKW5IBVZbE37YDAoiy-N1AmmuBGvLxM2NPTQGEowEqeRu_NumOZ57bnNSmtSYPGEfzZc5-0t_CJcShJv9l1YaH4ch27CywEc7aIGJFJkBrGshgkl4bkPQcg7CWPfNdIGtmrwknPXxLtAQ8ZMdmVohbDuYSlVzljJh0KoS2SXlfhbqjd2zTqSdCt1RtQ-tVUdGJCsJ22AOgq-1SUC94StqMxhp6_af7eXDcoqrSn-G4AkAaM9yAvih-bWfrVuz1UwDycMTNkn3J87PJ0bMFX4pTKUY8isRB9YbNvhLoM1u_f5j89P2KbrCzgnCMn3IitG-87OQxnyQXbLJdw0BF5kM_gl3CrrzQ4x05vvl8y5skFDCxw5o4oAD9w1iiEJH-iz3iBszxaG8tKtTHQtm3bmC6ikdzNZIkYqmNCmCvWQQHSmLp0uocaQxaA",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJ2w-SyeA_aI4RWbY1aWbfi74",
+    "plus_code": {
+      "compound_code": "4V8Q+8W Bucaramanga, Santander",
+      "global_code": "67V84V8Q+8W"
+    },
+    "price_level": 2,
+    "rating": 4.3,
+    "reference": "ChIJ2w-SyeA_aI4RWbY1aWbfi74",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 230
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 42 #29-83, Sotomayor, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1208073,
+        "lng": -73.1125247
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.12212697989272,
+          "lng": -73.11115672010727
+        },
+        "southwest": {
+          "lat": 7.119427320107277,
+          "lng": -73.11385637989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Zekkei",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 801,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106889800887936354204\">Emmanuel Gutierrez Perez</a>"
+        ],
+        "photo_reference": "ATKogpdchf1Xs9G6dos2hEsbzTaC-yKtQq4VMpKnR-3sguTHz0ntTkPT0XJf6oNToQaB4LKqUImhL5cX2-9NoUboADa6tzSQbqVeTc01xjn0TdtD7w7-IRRSbASnue6Iw_6TiMfp4p_1sipQ7_dDNlLwNg9fmcaezuTE5dEaUR_PIi51s_9PabWECQ95uY9pvk7azdjQIk4F-wnC7tRYXv9JVkVOV-JpZ6vbbli2cxwypMLtVflbwLCL8LsOoCOlW6iR8xmJgjZD0bgEjRDxEov2GqJO8u52AsAvgBfey7mBLKhmHm_UkBfHPReEi8EBWqJKOJ4Agm4K34KaYj94iq3VAZARnr1vWhfRS6YDTVGsQQ-lunC_pdkeQ9lsCFJO6tnyDc57iZ0ZOP7jpMTtTqCGAaUuDuuxFpub3QE7ONGXKyh7n1Rkg5nniucpK5zkSm1y6bzjac2wjTPqRkMvJ20kt9B2HTh1osR8-YZ5484ZFCJS4WK04rGwyIvdFwHm-UDfWmRzLKnZ3QG2DnpdXaq8jhEK7IZn4QXZqgv-zZ7b1OW2CXXa3PPSly-mYI0YSAA65ZRuKfNM",
+        "width": 1068
+      }
+    ],
+    "place_id": "ChIJV60RHmAVaI4R--1yrycqpy0",
+    "plus_code": {
+      "compound_code": "4VCP+8X Bucaramanga, Santander",
+      "global_code": "67V84VCP+8X"
+    },
+    "price_level": 3,
+    "rating": 4.7,
+    "reference": "ChIJV60RHmAVaI4R--1yrycqpy0",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2098
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "calle 48#33-24 buc sant, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.116557299999999,
+        "lng": -73.1107383
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117956329892722,
+          "lng": -73.10939477010727
+        },
+        "southwest": {
+          "lat": 7.115256670107278,
+          "lng": -73.11209442989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Tremenda Disco",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105817860901420157089\">Edinsson Gómez Merchán</a>"
+        ],
+        "photo_reference": "ATKogpeX_9OzAauap1lTB5omk0JxKdxNyBdS7tPCSC_WOHRWJiVEN1XMjSTlwa2StbsUHW8P2c91kma_9O-egcsxDjWkiHCc03jtrC8V2PntfAd9yysf2w7wJrilIYXM-jX_N6PIaiGfI_Y_QyvAA1KC_Vz58jhFlFW710oKJfuTzc_1c38ccKDdY3KjRN7efT6yLLRDopqIHi9B56rdKkbzr0HwaHV5-euOecJsnwTZijqd7LVlOdf_wDAE5OKTQv3geRtWKqU2ZHdraxmCpi8BE9QvSnmBN-muDwFLbQZ3Rb76H7X9m-r79JplplIhh3LFMYe100FwAp7w0PMuR9CPdsxNKUXnAQns-64oK1fEDHLB51uZ8FleK3TzWYruHI17YmbNj1peV68mrqwe9JslRywxpgqkEH2wx1ywIpgg_2n5pygpKlBht34TwVudKeF8iGNmCefJEE_EFEVVUbxUnG58275-mugKfgDeSufhjlYlO5UsajZbogzD16LubcV1l8Vo-m6lvj7ap1AYNS5_WeIsQSIjmAWOH9eKY1UqJLVZaEF7lBkiOf__9QjVZwbTHU67QJArOiPHtg",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ96b7K7o_aI4RBMVDM728pS0",
+    "plus_code": {
+      "compound_code": "4V8Q+JP Bucaramanga, Santander",
+      "global_code": "67V84V8Q+JP"
+    },
+    "rating": 4,
+    "reference": "ChIJ96b7K7o_aI4RBMVDM728pS0",
+    "types": [
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 280
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 48 #34-17, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.116822099999999,
+        "lng": -73.1102537
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.118128579892722,
+          "lng": -73.10889552010727
+        },
+        "southwest": {
+          "lat": 7.115428920107278,
+          "lng": -73.11159517989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Movie Cocktail House",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102005000211893742042\">Movie Cocktailhouse</a>"
+        ],
+        "photo_reference": "ATKogpe5relGWsmMhra_nBJUmiN4--JFKzYQZMEHbJMCAMb5sAAWPuwbfjrvPQW6w-1Ta2nT1mhLovImMnzgoy6KY-qj1mDF3LUJQ-QmWP34RuBf_ENqim3iMK1ooGrdViL12PE73LiJA-icaYuxcXqsMuCd2N9val7fAzwefyQIawaSqakJyz9y6WIQm5hsV2jo_O6Is5ILJGXdGO1IdTlfD88C90KxbgpG-wJW9hz6LbQjW3Yh_ERzZVUDW3y78Y0hsTiHYXJMOSXj5y9c4dK6qY0ogmGxJIiRvWsIFIdot6es1jUOPmXFhtM-AjD8dFTZYXGuWHooBmNemAhRFJyluVrApZf973_sUyTxUr7EAYgE5S3bR-x9NqNUQx3gq7_ltbsD-QQljY5DDRgpPUq9LtqkKhTdrD1zva6O0M6yR3yHwJYTUrsp3DGZL8hGs-Nd9phoGTu-mMMD_h7-r2iQkQgxc1QpLohptimAv1CVeEiyJiKyANVaVda_wrEyZAraKN_KZuhNImeTDm3QSxR90hRAJ10cJhrxY3MYz_5fiakYcxqW4vnTfY6ohp4xzAzDkpJCsFA0ZyMkKg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJn6SnWQA_aI4RGsNzpTGJxi0",
+    "plus_code": {
+      "compound_code": "4V8Q+PV Bucaramanga, Santander",
+      "global_code": "67V84V8Q+PV"
+    },
+    "rating": 5,
+    "reference": "ChIJn6SnWQA_aI4RGsNzpTGJxi0",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 35 #52-08 Tercer Piso, Cabecera, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1132405,
+        "lng": -73.1093783
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.114597979892721,
+          "lng": -73.10798412010729
+        },
+        "southwest": {
+          "lat": 7.111898320107278,
+          "lng": -73.11068377989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "EVA Skybar",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102745566105934812843\">Eva T</a>"
+        ],
+        "photo_reference": "ATKogpcV3mDn2HZKas0R4rTuVt_I-gGmDBDBNopL9wE_xrSsD3xq3_Q6J6WTFqBAOZI2bRslXPltFf0eGSbDKZnwO6F8Nmipa3tWv8PCIzagq4I-UHEuN8yMDfAyghwZdKki4juRSdxPAUFZls5akhMfaDzUIa3jCALGpzqahXUjIB-wmD3dKT6_6C3416rhTgMSyxJj37ooSVea2rxapaw-fLttRIMRC2-quYoEh8VjbOhsg3HsObZuduAw0Yk-QnUezX_SjXq3qY0PVVb98xZYv1ufPeCuEOo_SSEchun-EkOqzp7ZiXGU3rC1eId5D5cvlYNN5l6_4njVFqLc1MyUldD14HZ4c5iI16tK6Smnc0C0qPQ1v3lXgln_RQ292TBomOkP8QFfVzeRLADNNrOCjWOO5EpTwmtv8z_pDSbt1Odor0SbjDyiwjrpSwv0w6JiNUy9U-rkTo3kanqDwx_-QV89zgAUYJ-hOpe7_sTasUiD28tLSkYeWB2Qpar38NzB03KORpTr-LSSoBxQFX-fl1TA8HP1-dhQA0qiLKRnOmTBvomhsJIGx6pop6dCDaU6XPshJg",
+        "width": 4080
+      }
+    ],
+    "place_id": "ChIJ7-PvjRE_aI4RcQe-ZX1-rv0",
+    "plus_code": {
+      "compound_code": "4V7R+76 Bucaramanga, Santander",
+      "global_code": "67V84V7R+76"
+    },
+    "rating": 4,
+    "reference": "ChIJ7-PvjRE_aI4RcQe-ZX1-rv0",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 51
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 48 #35-6, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1168093,
+        "lng": -73.1098359
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.118128079892722,
+          "lng": -73.10848062010727
+        },
+        "southwest": {
+          "lat": 7.115428420107278,
+          "lng": -73.11118027989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "THE SOCIAL",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4656,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108390455600238765831\">JULIAN LEAL</a>"
+        ],
+        "photo_reference": "ATKogpeNdITdP3y0QdvdXnVJfMQYCL_NL6HHRUxhkeTj0cuD3v7gRYJyNGRXL58YEiozPheQE6AQ1GLj8fFYiBWdOvMz_KBIQ6zd77Zlx-Au_d7w6hj8yIfC8ujdeCIpglGQkhV3c6sPTjdlt7nobpG3cEvQ-hvbIYUf9zRYuzR2hgv1wxvfsWRhIYOAnWUfeQVsax5WU_wx-D5cfCCN_4nNUbjVwqouLYZj6EQFIaSfZD74qyXFTzgaF3sogHYzT3KPezNeEVTYTEG-LWZcaTzlz1IUOL3lOR4zdxuWjR-ZTKxRknAXw8VmnAnLo4iVCupOTfDhMRzb3OWZaqU483iseOp9fgrHsRqB-N7rVGrj8J4_U9zQPPfasy0Eco_7F909madVecaLwZ59RtTaR25tF3lHeG2tjUIj0LeTC6ILC3FDKHcaiwQOfblQesS82xhctVu_zCX74WMKd_0YZnmsnyjJzjVZ8FTl-GJD_fgMdERI8gYlLkapDkBp2b903TnkK-3UUHNjXBDYdXjl8vQRDilnkOjkKr0Fxjm8c14DYa9mWhahYdhJsWvj207cVBALRPs8nA",
+        "width": 3496
+      }
+    ],
+    "place_id": "ChIJA8WgGRU_aI4RnlsmWUPF3v8",
+    "plus_code": {
+      "compound_code": "4V8R+P3 Bucaramanga, Santander",
+      "global_code": "67V84V8R+P3"
+    },
+    "rating": 4.5,
+    "reference": "ChIJA8WgGRU_aI4RnlsmWUPF3v8",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 98
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Ak 27 #10-21 2 piso, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1374116,
+        "lng": -73.1201565
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.138764229892722,
+          "lng": -73.11883937010728
+        },
+        "southwest": {
+          "lat": 7.136064570107278,
+          "lng": -73.12153902989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "SOLL BAR NÓRDICO",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 6120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103328758215788317748\">SOLL BAR NÓRDICO</a>"
+        ],
+        "photo_reference": "ATKogpfvkAZpfEj7xh6xTHKKxQGpcrDRPkF2Gye6lt2EB_HdsnA4E6kYXq35u2JLNeV39lTrUk9ZPd4fuXf_s9jMBSgh-r9mb7I0tSRtRcBQqtvATkAMYhVHXDoQE-yUC3OPNtFIyvwRjRnh-KRE2WSLk4HmYjsaho2oZuWRsvv0L2EMRertX7T6lFKgNI7Z6bK17rSRsiX2kv_GoVD3Ogh8XdOIMN1b5K1wsIA0p7mI4v9NMl2rih_PT3uqX6usUn0wpCAiRWXR-JJNQY6kILAqrUDy_CzJwg3yqo0ehe8hDqFNp-R9cpc",
+        "width": 8160
+      }
+    ],
+    "place_id": "ChIJSeHlY8YVaI4RhwXgCdczLAo",
+    "plus_code": {
+      "compound_code": "4VPH+XW Bucaramanga, Santander",
+      "global_code": "67V84VPH+XW"
+    },
+    "rating": 5,
+    "reference": "ChIJSeHlY8YVaI4RhwXgCdczLAo",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 48 #35 - 23 Segundo Piso, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1169514,
+        "lng": -73.1096397
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.118248729892721,
+          "lng": -73.10828067010728
+        },
+        "southwest": {
+          "lat": 7.115549070107277,
+          "lng": -73.11098032989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Famozza Rooftop",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJo47N91M_aI4Rrry0pF5Yjoo",
+    "plus_code": {
+      "compound_code": "4V8R+Q4 Bucaramanga, Santander",
+      "global_code": "67V84V8R+Q4"
+    },
+    "rating": 3.6,
+    "reference": "ChIJo47N91M_aI4Rrry0pF5Yjoo",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 34 #48-71, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1159851,
+        "lng": -73.1102317
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117326129892721,
+          "lng": -73.10893152010728
+        },
+        "southwest": {
+          "lat": 7.114626470107277,
+          "lng": -73.11163117989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Monarca Music & Drinks",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107566057383432979562\">Kevin Uribe</a>"
+        ],
+        "photo_reference": "ATKogpex9Z7i-uCwVRWr0SAHa3FmVoTE0vTO1alcsGXBwnRQef50rkYL-BeQI48YmJvSW-Oud00pRTQF6UZ8jsQcS49xqANZzGuIO8zU-fQn0r0Rzny2O9AmrPMcB3VTUenHVz96cCFSgOzITdnAY7RvSazpMWBl1OOq8hwnUBG28JgbRvNGKLCvBR7H09DkSaYOzEL15HyIKcJyga8FGuAPv5D5VOiksSf518q0J2bUeiFgjgEfK-dXSfQVuiaa99uIYGkBuQXOJT6---GIydiFlc2LeUfbnGZ5ptcM6pPR7_sqWVQEnvHobjM8qnZwHEZapw149eVshGkFJGiGgdspBIqqtkBYS12_8RvA-5o_mJNrKZRr6Toeq96cKCfOEQqK_xzNyHxk8pObYJbyo7sUpeEqoDCHZl6NYSZ2Fy1t7X1XI7QEd5BnxX3i-eewsQyAAgvmMv10HFeZaI4ZGN8-uEQ7vSTZJU3lKQJIl1SIBLeKv8B26zxMXi44aJjN4DHPP-rn8C6OS91lQt-fdQhdD6quIsqiGl_kUJgzmUi5QPwxSiu3gYxQKrVhJoBx3wvjsdsNcyAITbRwWg",
+        "width": 3472
+      }
+    ],
+    "place_id": "ChIJI1hMg28_aI4Ry8hzo-Ln4dE",
+    "plus_code": {
+      "compound_code": "4V8Q+9W Bucaramanga, Santander",
+      "global_code": "67V84V8Q+9W"
+    },
+    "rating": 4,
+    "reference": "ChIJI1hMg28_aI4Ry8hzo-Ln4dE",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "barrio la universidad, Ak 27 #10-78 Local 1, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1372357,
+        "lng": -73.120407
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.138576629892722,
+          "lng": -73.11900917010728
+        },
+        "southwest": {
+          "lat": 7.135876970107279,
+          "lng": -73.12170882989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Fuera de serie",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107108354246548531460\">Sat Naam</a>"
+        ],
+        "photo_reference": "ATKogpemBatnWZho7ERiTm56beGITsl0XlLcncE6saUnVJn085IJk29aav463vQdCVEliDgfqo4Vas581IC1rStq0dSD0u3jlQGSQFtnoG2abUfLubUbM_SEZdJcFpceHBClwJeRRGBS-QGEh5VZB8xEQqZD5NSOt3NVFw4GvjKXUseQ_gG9pjXiChsx6WxcNvd_EMs1uBESiFBsllI_F5QOHRno2hNYem1obz6VSCSNcpgjGmN-UgJWxsPlnIjwT3HijK1mP8Oe5ajfzKR-7ETzWOGDpUVvXKv6NjBxsSX7l5pO7_0by9O6PrK8kVWRUPGbDT_-4fq1SwZRsjMy8_Ne6YYDMATiyBAosI6Vg7m2HMkGH46fUTKS_YWev3o65rRWGbeWDa4KY718ui_INGySWmhKB4eh9mjGsJZpDp1NIh4yMywLhl9GBis0w8QoVCY-wwrLfYR_6Hqz0YJapZpgO3wEeQwCRNudK6uiqNmK-mHc7jS_Up1N6p6-s-V0STMInt8cIKeO2419w6jJWFIU2rSfjQd2d9BLzWgVovqPE53ix4V2_UHEVBHz5oAc1Tlb2ihxLztSLyZ8tQ",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ1f4IpBIVaI4RUdMKAz8-RWs",
+    "plus_code": {
+      "compound_code": "4VPH+VR Bucaramanga, Santander",
+      "global_code": "67V84VPH+VR"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ1f4IpBIVaI4RUdMKAz8-RWs",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 59
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 34 #4866, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.1160289,
+        "lng": -73.1104136
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.117386279892722,
+          "lng": -73.10901972010728
+        },
+        "southwest": {
+          "lat": 7.114686620107278,
+          "lng": -73.11171937989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Penthouse",
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115516794826077944750\">Sara Rodriguez</a>"
+        ],
+        "photo_reference": "ATKogpcYANf90bpAsntJpRSOr8ZVmNVa61sQEfwYsf61N-A6jJ8nF4kGtj_B7D8Tomd1iTd6TLjNIHQHYp1eHFv2bpxW1FEFsQuWbHIHSj0YI1dYoq8pWIGvHToZbbnC2M0Sas0gyUquPBqt8f4h2LMhtKOdwmm6pTB0QnWTqMHavFpOcLm33RWeJRUn1QPwaYyGTpTBWyADIMCQjj6RFbbpV4C-KijN9O4E7VI2YEZeY7a84fecV7wctg2O3uJ-B7GwPv58LiYARAoPuUrhIKEJz9mORTK-SbTKA8hKwISpQnGLSJ0G8yGMo2o8NJcBPkzWOMRRPA1MaRDW48_By6TMFVmEgBuviWmWioPrMRsTOLKBsAeG6epraFbkPMFevyUv2_XxPbshucD08ow13zr65vMbP1yxUt8Bj-yH5dLpugssfCv_zuo18wUTZcpK1AzPi0RHeH-6l5qek3Gi4m671IB2tWC_M8fd2-UTJFROIrW7iLApNCDYxWa_L22-dzVjjvSyVL-joPVZFOvpEkV6bAj1kOPhBDdTbBLmb-7y6NzTX_WTlTlM27FunAwWWDZDDtpRs9I08-qRSw",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJRe3xsOA_aI4RG5jtTYoiu6M",
+    "plus_code": {
+      "compound_code": "4V8Q+CR Bucaramanga, Santander",
+      "global_code": "67V84V8Q+CR"
+    },
+    "rating": 4.3,
+    "reference": "ChIJRe3xsOA_aI4RG5jtTYoiu6M",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 93
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cl. 54 #36-07, Cabecera del llano, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.111558199999999,
+        "lng": -73.107781
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.112834279892721,
+          "lng": -73.10641627010727
+        },
+        "southwest": {
+          "lat": 7.110134620107277,
+          "lng": -73.10911592989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Restaurante Burgess",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111108814422128869055\">Restaurante Burgess</a>"
+        ],
+        "photo_reference": "ATKogpdqmj-oi2BVy4Kutz0riaaPz2q5EPSk7GZdP-yZ8B6zjWKJLSiFFSbVNMXQhlbq6R0c60IJQ2nKRi5PTAbiZx4mCDphBOLkh9v4DYF1Y4AFCGpcT73prgCrkDnN8Ms72QIV5jxnRZoYZ0IQH2b-RF_fZbT1LJQynOGQJRWfOyoK8gIDNm4QhkR4iqlBWVQm8bTru9giFMn-PYhpMSxDeWdMmNIIQtGnQiSZjNoWOcTygJaSuyJbXAF-00U5GtpXE7yI1ZtG3rl3rFVX8h1eZ-xu2qMttH5_5CjZufIboN5laawTgCk",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJJ9b7Ldw_aI4RRSmcX2ISRTk",
+    "plus_code": {
+      "compound_code": "4V6R+JV Bucaramanga, Santander",
+      "global_code": "67V84V6R+JV"
+    },
+    "rating": 4.3,
+    "reference": "ChIJJ9b7Ldw_aI4RRSmcX2ISRTk",
+    "types": [
+      "restaurant",
+      "bar",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 73
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Cra. 25 #24-11, Bucaramanga, Santander, Colombia",
+    "geometry": {
+      "location": {
+        "lat": 7.127027999999999,
+        "lng": -73.1205458
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 7.128364429892721,
+          "lng": -73.11924682010728
+        },
+        "southwest": {
+          "lat": 7.125664770107277,
+          "lng": -73.12194647989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Michelados Bga",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103193187313126395126\">Liliank V.C.</a>"
+        ],
+        "photo_reference": "ATKogpeJQIhzFOWRS2rP4xAB3HxOp9CfAyNwewFtdP1cpIPewJpw4zCY1HbjKbm38vHWj2nXojXfjUM6DMcRgxnDtA93lpXDu1BLiocB-ekOtxVBbpooDAbLLq9J_LzMF7_qr0i55Ayxul5WrzRjuwQMQ-C7HW2kjQFmmq1lXPj1IfpYjxYOqjPIrrIfvj5P0G8iH-mtlXLut9LRqJmmpIZfU1_myuGC-S0plASMKW-dLEngb6PfySgEsWbVMeru9ttuD4RqQjMZ0O6YLzO5oLwI8S0tENvEJEHOy44k11lpERviZt3j3IEnxXR7EVasgt4YsvTg-t5qZtofYp-uEMJSxDtCtHeShDbF3snJHYNV-ElBDtYdmvnwHJslnduUmb-sHLNqc892qVGjsZD4KYVh4oZGhD4j9Ui2etbJ9SO2pyNQKhzCflwryuwIqcX9vKIgTxc0LbZpQ4Qt77JtXAb64X87GPsVYyovT_4moZqDC8ageBpNIKeL6RqqRbtQY63bfyVHs_bOkdI3zclTCd-Z06TbmzlaYpLl_56qW4dqLmncopHnyH5qBpaAmZD_uiTkD_wbCII-",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJm4-I_4MVaI4RWavyUr-JX_8",
+    "plus_code": {
+      "compound_code": "4VGH+RQ Bucaramanga, Santander",
+      "global_code": "67V84VGH+RQ"
+    },
+    "rating": 4.8,
+    "reference": "ChIJm4-I_4MVaI4RWavyUr-JX_8",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 30
+  }
+]
