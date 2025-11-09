@@ -1,2 +1,5 @@
 metadata.py
 .gitignore
+metadata.py
+logs/performance.log
+

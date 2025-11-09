@@ -7,16 +7,13 @@ import sys
 import os
 from performance_middleware import performance_logger
 
-app = FastAPI()
-
-
 from main import invocarRedNeuronal
-
-# Agrega el middleware
-app.middleware("http")(performance_logger)
 
 # Crear la aplicación FastAPI
 app = FastAPI(title="API de Direcciones")
+
+# Agrega el middleware después de crear la aplicación
+app.middleware("http")(performance_logger)
 
 # Modelo de entrada (más flexible)
 class DireccionRequest(BaseModel):
